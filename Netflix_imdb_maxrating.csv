@@ -1,0 +1,324 @@
+country,Release Year,imdb_rating,show_id,release_year,year_added
+Argentina,2017,7.2,80993656,2017,2018.0
+"Argentina, France",2017,6.1,80232892,2017,2018.0
+"Argentina, France, Germany",2017,6.3,80993650,2017,2018.0
+"Argentina, Italy",2018,4.7,80103424,2016,2017.0
+"Argentina, Spain",2018,5.5,80245357,2018,2018.0
+Australia,2019,7.4,81108479,2019,2019.0
+"Australia, Armenia, Japan, Jordan, Mexico, Mongolia, New Zealand, Philippines, South Africa, Sweden, United States, Uruguay",2014,6.1,80182274,2017,2017.0
+"Australia, France, Ireland",2010,6.4,80046145,2010,2015.0
+"Australia, India",2016,5.4,80115858,2016,2017.0
+"Australia, United Arab Emirates",2017,6.4,80222177,2018,2018.0
+"Australia, United Kingdom",1992,7.1,60022396,1992,2020.0
+"Australia, United Kingdom, Canada",2014,6.5,80027378,2014,2018.0
+"Australia, United Kingdom, United Arab Emirates, Canada",2015,5.9,80052828,2015,2018.0
+"Australia, United States",2016,7.0,80170862,2018,2019.0
+Austria,2018,6.6,81046255,2019,2020.0
+Bangladesh,2018,7.4,81048548,2018,2019.0
+Belgium,1995,5.0,80142550,2018,2019.0
+"Belgium, France",2016,6.7,80152447,2016,2017.0
+"Belgium, India, Australia",2017,6.0,80038446,2015,2017.0
+"Belgium, Luxembourg, France",1954,6.4,81034575,2018,2019.0
+"Belgium, Netherlands",2018,7.2,81004374,2019,2019.0
+Brazil,2019,7.0,81020531,2019,2019.0
+"Brazil, Canada",2015,6.1,80093812,2015,2016.0
+"Brazil, France",2016,7.5,80113667,2016,2017.0
+"Brazil, France, Germany",2011,7.1,60026106,2002,2020.0
+"Brazil, Netherlands, United States, Colombia, Austria, Germany",2016,5.2,80135149,2016,2017.0
+"Brazil, United States",2011,7.3,81137484,2012,2019.0
+Bulgaria,2018,3.4,80119177,2018,2018.0
+"Bulgaria, United States",2017,5.7,80190283,2017,2018.0
+Cambodia,2017,5.4,80990658,2017,2018.0
+"Cambodia, United States",2017,7.2,80067522,2017,2017.0
+Canada,2019,8.0,81173255,2019,2020.0
+"Canada, Australia",1977,6.6,80101401,2019,2019.0
+"Canada, France, United States",2012,5.0,70243446,2012,2019.0
+"Canada, Germany, France, United States",2014,6.2,80013474,2014,2018.0
+"Canada, India",2017,8.5,81217438,2017,2019.0
+"Canada, Japan, United States",2018,4.0,80189866,2018,2018.0
+"Canada, Luxembourg",2014,5.0,80017261,2014,2019.0
+"Canada, Mexico, Germany, South Africa",2015,7.5,80022605,2015,2018.0
+"Canada, Spain",2016,4.3,80163159,2016,2017.0
+"Canada, Spain, France",2013,6.9,70293661,2013,2018.0
+"Canada, United Kingdom",1967,3.8,70210883,2016,2016.0
+"Canada, United Kingdom, United States",2016,5.8,80105452,2019,2019.0
+"Canada, United States",2017,7.5,80216834,2018,2019.0
+"Canada, United States, United Kingdom",2016,5.7,80149143,2016,2019.0
+Chile,2019,7.1,80241666,2018,2018.0
+"Chile, Argentina",2018,6.0,81039410,2018,2019.0
+"Chile, Argentina, France, Spain, United States",2016,6.9,80108952,2016,2017.0
+"Chile, United States, France",2012,8.4,80098709,2016,2016.0
+China,2017,7.0,81019520,2019,2019.0
+"China, Canada, United States",2018,6.6,80988892,2018,2018.0
+"China, Hong Kong",2018,6.3,81034600,2018,2019.0
+"China, United States",2016,6.1,80039717,2016,2016.0
+"China, United States, Australia",2017,6.3,80190463,2018,2018.0
+"China, United States, United Kingdom",2018,5.7,80195962,2018,2018.0
+Colombia,2005,6.3,70205713,2010,2017.0
+Croatia,1994,6.6,80226864,2018,2019.0
+"Czech Republic, United Kingdom, France",2009,6.1,70120167,2009,2018.0
+"Czech Republic, United States",2017,6.1,80108149,2017,2018.0
+Denmark,2016,8.2,80193978,2018,2018.0
+"Denmark, France, Italy, Belgium, Netherlands",2019,5.9,80200087,2019,2019.0
+"Denmark, France, United States, Sweden",2013,5.7,70253596,2013,2018.0
+"Denmark, United Kingdom, South Africa, Sweden, Belgium",2014,6.7,80013550,2014,2017.0
+"Denmark, United States",2009,3.8,80154610,2019,2019.0
+Egypt,2014,6.3,81065784,2018,2019.0
+Finland,2016,6.3,80138030,2018,2019.0
+"Finland, France",2007,6.9,80145143,2018,2019.0
+"Finland, Germany, Belgium",2019,5.0,81132624,2019,2019.0
+France,2019,7.2,81079723,2019,2019.0
+"France, Belgium",2019,7.0,81188871,2019,2019.0
+"France, Belgium, China, United States",2017,7.0,80224362,2017,2018.0
+"France, Canada",2017,7.5,80161029,2018,2019.0
+"France, Germany, Czech Republic, Belgium",2016,6.1,80106984,2016,2019.0
+"France, Germany, Switzerland",2014,6.7,80013293,2014,2017.0
+"France, Iran, United States",2018,6.9,80085566,2018,2018.0
+"France, Luxembourg, Canada",2018,6.8,81029736,2019,2019.0
+"France, Luxembourg, United States",1991,6.7,80245121,2018,2018.0
+"France, Morocco",2015,6.2,80060037,2015,2017.0
+"France, Netherlands, South Africa, Finland",2011,6.0,80170119,2017,2018.0
+"France, Poland",1961,7.8,80098103,2016,2018.0
+"France, Qatar",2016,7.4,80115031,2016,2016.0
+"France, United States",2019,7.8,80221677,2019,2019.0
+"France, United States, Mexico",2006,7.4,70045866,2006,2019.0
+Germany,2019,8.4,81059956,2019,2019.0
+"Germany, Canada, United States",2001,6.8,60020826,2001,2019.0
+"Germany, France, Luxembourg, United Kingdom, United States",2015,7.1,80081277,2015,2018.0
+"Germany, France, United States, Canada, United Kingdom",2010,5.8,70128695,2010,2020.0
+"Germany, Jordan, Netherlands",2016,6.6,80148070,2016,2017.0
+"Germany, United Kingdom",2014,7.2,80028357,2014,2019.0
+"Germany, United Kingdom, United States",2008,6.1,70101345,2008,2019.0
+"Germany, United States",2016,8.3,80100172,2019,2020.0
+"Germany, United States, Canada",2018,6.2,80195964,2018,2019.0
+"Germany, United States, Hong Kong, Singapore",2012,7.4,70248183,2012,2017.0
+"Germany, United States, United Kingdom, Canada",2000,6.2,60000878,2000,2020.0
+Guatemala,2017,8.0,80229829,2017,2018.0
+Hong Kong,2019,7.6,81068732,2019,2019.0
+"Hong Kong, China",2015,6.8,80117455,2016,2018.0
+"Hong Kong, United States",2014,7.7,80017280,2014,2019.0
+Iceland,2018,6.2,80216988,2017,2018.0
+India,2019,9.1,81221913,2020,2020.0
+"India, Australia",2010,5.6,70150437,2010,2018.0
+"India, France",2017,7.9,80221637,2017,2019.0
+"India, Germany",2015,7.1,80081274,2015,2019.0
+"India, Germany, Austria",2018,7.1,81014988,2018,2018.0
+"India, Germany, France",2016,7.6,70287630,2010,2019.0
+"India, Iran",2017,7.0,81005454,2018,2018.0
+"India, Japan",2010,6.9,81077597,2010,2019.0
+"India, Malaysia",1947,6.6,80158547,1960,2017.0
+"India, Mexico",2019,4.7,80173001,2017,2017.0
+"India, Pakistan",2010,5.8,81024718,2010,2019.0
+"India, Soviet Union",2016,6.8,80157134,1991,2017.0
+"India, Switzerland",2013,5.9,80201828,2013,2017.0
+"India, United Kingdom",2016,5.6,80097355,2016,2016.0
+"India, United Kingdom, Canada, United States",2019,6.6,81037373,2019,2019.0
+"India, United States",2017,8.3,81065331,2019,2019.0
+Indonesia,2018,8.0,81140307,2018,2020.0
+"Indonesia, Singapore",2018,7.6,81047898,2018,2019.0
+"Indonesia, United States",2018,7.0,80148162,2018,2018.0
+Ireland,2017,7.1,80227777,2017,2018.0
+"Ireland, Canada, Luxembourg, United States",2017,7.7,80217121,2017,2018.0
+"Ireland, Canada, United Kingdom, United States",2015,8.1,80073823,2015,2018.0
+"Ireland, South Africa",2016,7.3,80041653,2016,2016.0
+"Ireland, United Kingdom, Greece, France, Netherlands",2015,7.1,80058480,2015,2018.0
+"Ireland, United Kingdom, United States",2006,7.6,80107989,2018,2018.0
+Israel,2018,7.8,81075239,2018,2019.0
+"Israel, Germany",2017,7.2,80988989,2017,2018.0
+"Israel, Germany, Poland, Luxembourg, Belgium, France, United States",2013,6.5,70285728,2013,2019.0
+"Israel, United States",2018,6.6,80188120,2018,2019.0
+Italy,2017,8.0,81179693,2019,2019.0
+"Italy, France",2015,7.4,80075009,2015,2015.0
+"Italy, France, Switzerland",2017,6.6,81039323,2017,2019.0
+"Italy, United States",1968,8.5,60031884,1968,2019.0
+Japan,2015,7.0,81033516,2018,2019.0
+"Japan, United States",2017,5.0,81001121,2017,2018.0
+Lebanon,1998,7.1,81079322,2019,2019.0
+"Lebanon, Jordan",2018,5.4,80220816,2019,2019.0
+Malaysia,2018,7.1,81066961,2018,2019.0
+"Mauritius, South Africa",2017,3.9,81157169,2019,2019.0
+Mexico,2018,7.7,80991827,2019,2019.0
+"Mexico, Netherlands",2000,5.8,80991809,2018,2018.0
+"Mexico, Spain",2006,8.2,70050507,2006,2020.0
+"Mexico, United States",2017,6.3,80226962,2017,2019.0
+Netherlands,2018,5.6,81026329,2018,2019.0
+"Netherlands, Belgium, Germany, Jordan",2016,6.7,80144454,2016,2018.0
+"Netherlands, Belgium, United Kingdom, United States",2015,6.1,70299204,2015,2017.0
+"Netherlands, Denmark, South Africa",2001,6.8,80089199,2015,2016.0
+New Zealand,2018,6.5,80992672,2018,2019.0
+"New Zealand, United Kingdom",2017,6.2,80178280,2017,2018.0
+"New Zealand, United States",2003,8.9,60004484,2003,2020.0
+Nigeria,2018,7.1,81172901,2018,2019.0
+Norway,2016,6.5,81083590,2019,2019.0
+"Norway, Denmark, Netherlands, Sweden",2018,6.0,81002685,2018,2018.0
+"Norway, Denmark, Sweden",2014,7.2,70301484,2014,2017.0
+"Norway, Sweden",2011,2.9,80092654,2017,2019.0
+"Norway, United Kingdom, France, Ireland",2014,6.2,80017275,2014,2015.0
+Pakistan,2018,8.0,81160036,2018,2019.0
+"Pakistan, Norway, United States",2014,7.0,80114155,2014,2016.0
+"Pakistan, United Arab Emirates",2018,6.5,81052280,2018,2019.0
+"Pakistan, United States",2015,7.7,80080145,2015,2017.0
+Philippines,2019,7.9,81066244,2019,2019.0
+"Philippines, Qatar",2016,6.6,80222896,2016,2018.0
+"Philippines, Singapore",2018,4.7,81028404,2019,2019.0
+Poland,2006,5.1,80225020,2017,2018.0
+"Poland, United States",2014,7.8,80205593,2018,2018.0
+"Poland, West Germany",1985,6.7,81168340,1985,2019.0
+"Portugal, France, Poland, United States",2016,6.1,80180225,2016,2018.0
+Romania,2019,6.2,81092909,2019,2019.0
+"Romania, Bulgaria, Hungary",1990,6.2,81149202,2015,2019.0
+Russia,1996,5.0,80166471,2015,2017.0
+"Russia, Poland, Serbia",2018,6.5,80990221,2018,2018.0
+"Russia, United States",2014,2.5,80164164,2014,2017.0
+"Serbia, United States",2018,3.2,80202352,2019,2018.0
+Singapore,2018,8.3,81036535,2015,2018.0
+"Singapore, France",2016,5.4,80115133,2016,2017.0
+"Singapore, Malaysia",2019,5.0,81075461,2019,2019.0
+"Singapore, United States",2017,5.5,80219917,2017,2018.0
+"Somalia, Kenya, Sudan, South Africa, United States",2017,6.8,80202728,2017,2018.0
+South Africa,2017,5.6,80218111,2018,2018.0
+"South Africa, China, United States",2017,5.7,80208951,2017,2018.0
+"South Africa, Germany, Netherlands, France",2017,6.7,80170992,2017,2018.0
+"South Africa, United States",2018,6.8,80222301,2018,2019.0
+"South Africa, United States, Germany",2016,6.8,80117684,2016,2017.0
+"South Africa, United States, New Zealand, Canada",2009,7.9,70113005,2009,2019.0
+South Korea,2019,8.2,81194523,2019,2019.0
+"South Korea, China, United States",2015,7.1,80106230,2015,2017.0
+"South Korea, Czech Republic",2013,7.1,70270364,2013,2019.0
+"South Korea, United States",2017,7.3,80091936,2017,2017.0
+"Soviet Union, India",1980,6.2,80158543,1980,2018.0
+Spain,2019,8.5,80997613,2019,2019.0
+"Spain, Belgium, Switzerland, United States, China, United Kingdom",2017,4.0,80196379,2017,2017.0
+"Spain, France",2018,7.0,80109296,2018,2019.0
+"Spain, Mexico",2015,7.1,80171982,2016,2017.0
+"Spain, Portugal",2018,5.4,80235268,2018,2018.0
+"Spain, United Kingdom, United States",2009,6.0,70109891,2009,2019.0
+Sweden,2003,6.6,80211703,2019,2019.0
+"Sweden, United States",1958,6.5,80105356,2016,2017.0
+"Switzerland, United States",2017,3.9,80196584,2017,2018.0
+Taiwan,2018,7.4,81122206,2019,2019.0
+"Taiwan, China, France, United States",2018,6.2,81024041,2018,2019.0
+Thailand,2018,7.7,81016045,2018,2019.0
+"Thailand, Canada, United States",2014,5.6,80039602,2014,2018.0
+"Thailand, China, United States",2019,5.5,80195901,2019,2019.0
+"Thailand, United States",2017,4.7,80184972,2017,2017.0
+Turkey,2019,9.0,81132443,2019,2019.0
+"Turkey, India",2016,2.9,80227115,2016,2018.0
+"Turkey, United States",1974,5.5,70233894,2010,2018.0
+United Arab Emirates,2017,4.7,81026986,2018,2019.0
+"United Arab Emirates, Jordan",2015,6.7,80095233,2015,2016.0
+"United Arab Emirates, Romania",2016,5.2,80191513,2016,2017.0
+"United Arab Emirates, United Kingdom, India",2019,4.4,81013990,2018,2019.0
+"United Arab Emirates, United States",2018,7.0,80204923,2018,2018.0
+United Kingdom,2019,9.5,81092330,2020,2020.0
+"United Kingdom, Belgium, Sweden",2010,3.8,80215139,2019,2019.0
+"United Kingdom, Brazil, Germany",2014,7.2,70307648,2014,2019.0
+"United Kingdom, Canada",2017,7.1,80217312,2018,2018.0
+"United Kingdom, Canada, France, United States",2009,6.8,70113532,2009,2019.0
+"United Kingdom, Canada, Italy",2013,7.4,81004460,2016,2018.0
+"United Kingdom, Canada, United States",2017,7.2,80187228,2018,2019.0
+"United Kingdom, Canada, United States, Cayman Islands",2017,5.6,80232279,2018,2018.0
+"United Kingdom, China, Canada, Indonesia, Singapore, United States",2017,5.3,80189853,2017,2018.0
+"United Kingdom, China, United States",2014,6.3,70266675,2014,2018.0
+"United Kingdom, Denmark, Canada, Croatia",2012,6.3,70257413,2012,2018.0
+"United Kingdom, Egypt, United States",2017,7.2,70268449,2013,2014.0
+"United Kingdom, France",2016,7.7,80171125,2016,2019.0
+"United Kingdom, France, Belgium",2017,7.9,80146805,2017,2019.0
+"United Kingdom, France, Belgium, United States",2016,6.4,80155475,2017,2017.0
+"United Kingdom, France, Canada, Belgium, United States",2014,7.0,80042309,2014,2017.0
+"United Kingdom, France, Germany",2016,6.5,80159877,2016,2019.0
+"United Kingdom, France, United States",2018,7.4,80223371,2018,2020.0
+"United Kingdom, Germany",2018,5.4,80119233,2018,2018.0
+"United Kingdom, Germany, Canada, United States",2002,6.7,60023606,2002,2019.0
+"United Kingdom, Germany, United States",2008,3.8,70087538,2008,2019.0
+"United Kingdom, India",2012,4.9,70236586,2012,2018.0
+"United Kingdom, India, Sweden",2017,6.7,80191835,2017,2017.0
+"United Kingdom, India, United States",2017,6.6,80191963,2017,2018.0
+"United Kingdom, Ireland",2007,7.1,70065107,2007,2019.0
+"United Kingdom, Italy, Argentina, United States",2019,7.7,80174451,2019,2019.0
+"United Kingdom, Italy, France, United States",2008,6.9,70099610,2008,2018.0
+"United Kingdom, Japan, United States",2014,7.7,80000644,2014,2020.0
+"United Kingdom, Jordan, Qatar, Iran",2016,6.9,80096786,2016,2017.0
+"United Kingdom, Malawi",2019,7.6,80200047,2019,2019.0
+"United Kingdom, New Zealand",2015,6.9,80029901,2015,2018.0
+"United Kingdom, Norway, Denmark, Germany, Sweden",2012,7.2,70260989,2012,2019.0
+"United Kingdom, Pakistan",2018,7.6,81110389,2018,2019.0
+"United Kingdom, South Africa",2016,7.4,80117765,2016,2017.0
+"United Kingdom, South Africa, Australia, United States",2004,7.2,80175352,2018,2018.0
+"United Kingdom, South Korea",2015,6.2,80014727,2015,2019.0
+"United Kingdom, Spain, Belgium",2015,5.3,80118718,2016,2017.0
+"United Kingdom, Spain, United States, Germany",2018,4.8,80148210,2018,2018.0
+"United Kingdom, Thailand",2005,5.1,80160033,2006,2019.0
+"United Kingdom, United States",2019,7.9,80211623,2019,2020.0
+"United Kingdom, United States, Australia",2010,8.0,70135893,2010,2018.0
+"United Kingdom, United States, France, Germany",2002,7.0,60022998,2002,2019.0
+"United Kingdom, United States, Germany, Denmark, Belgium, Japan",2015,7.1,80058477,2015,2019.0
+"United Kingdom, United States, Greece, Italy, Germany",2017,6.8,70225722,2009,2015.0
+"United Kingdom, United States, Morocco",2014,7.5,81035748,2014,2018.0
+"United Kingdom, United States, Russia",2014,6.4,80013271,2015,2019.0
+United States,2019,8.9,81235729,2020,2020.0
+"United States,",1992,6.5,80203094,2018,2018.0
+"United States, Australia",2018,7.9,80201039,2018,2020.0
+"United States, Australia, Mexico",2010,5.6,70135899,2010,2019.0
+"United States, Brazil",2012,7.4,70257412,2012,2017.0
+"United States, Bulgaria",2016,5.2,80167699,2016,2017.0
+"United States, Cambodia",2016,6.1,80105067,2016,2019.0
+"United States, Canada",2019,8.1,81041515,2017,2020.0
+"United States, Canada, France",2009,6.3,70124183,2009,2020.0
+"United States, Canada, Germany",2004,7.1,70000091,2004,2020.0
+"United States, Canada, Ireland",2016,6.6,80128245,2016,2018.0
+"United States, Canada, United Kingdom",2010,6.8,70142542,2010,2019.0
+"United States, Chile",2012,4.8,70260374,2012,2018.0
+"United States, China",2017,7.3,80104316,2017,2019.0
+"United States, China, Hong Kong",2013,6.1,70278930,2013,2018.0
+"United States, Czech Republic",2017,7.1,80195378,2019,2019.0
+"United States, Czech Republic, United Kingdom",2005,5.9,70021661,2005,2019.0
+"United States, East Germany, West Germany",1971,7.8,60020949,1971,2020.0
+"United States, France",2018,7.1,81045720,2018,2019.0
+"United States, France, Canada, Spain",2003,5.8,60031247,2003,2019.0
+"United States, France, Italy, United Kingdom",2010,6.0,70142888,2010,2020.0
+"United States, France, Japan",2019,6.5,81044813,2019,2019.0
+"United States, France, Mexico",1993,5.9,523650,1993,2020.0
+"United States, Germany",2019,7.8,80223052,2019,2020.0
+"United States, Germany, Canada",2003,7.3,60027701,2003,2019.0
+"United States, Germany, Mexico",1998,6.7,5670479,1998,2020.0
+"United States, Germany, United Kingdom",2009,7.6,70110558,2009,2020.0
+"United States, Germany, United Kingdom, Italy",2009,6.5,70103524,2009,2020.0
+"United States, Greece, Brazil",2016,6.7,80098203,2016,2017.0
+"United States, Hong Kong",2016,6.0,80183897,2016,2020.0
+"United States, Hungary",2016,6.3,80098200,2016,2016.0
+"United States, Iceland",2017,5.0,80167644,2017,2017.0
+"United States, India",2015,7.3,80176707,2015,2019.0
+"United States, India, Bangladesh",2012,7.2,80084756,2012,2018.0
+"United States, India, Malaysia, Taiwan, Canada, United Kingdom",2011,6.9,70142824,2011,2020.0
+"United States, India, South Korea, China",2019,3.2,81145628,2019,2019.0
+"United States, India, United Arab Emirates",2014,7.3,70307659,2014,2019.0
+"United States, Indonesia",2015,6.1,80067754,2015,2018.0
+"United States, Ireland",2010,6.5,70124331,2010,2019.0
+"United States, Israel, United Kingdom, Canada",2018,6.7,80240972,2018,2018.0
+"United States, Italy",2002,7.5,60021787,2002,2019.0
+"United States, Italy, United Kingdom, Liechtenstein",1965,8.0,449931,1965,2019.0
+"United States, Japan",2014,8.1,80231373,2019,2020.0
+"United States, Malta, United Kingdom",2004,7.2,60034571,2004,2019.0
+"United States, Mexico",2017,7.1,80192014,2017,2019.0
+"United States, Morocco",2015,5.7,70295170,2015,2019.0
+"United States, New Zealand, United Kingdom",2011,7.3,70121502,2011,2019.0
+"United States, Spain",2019,7.1,80142617,2016,2017.0
+"United States, Spain, Chile, Peru",2013,5.3,70293315,2013,2019.0
+"United States, Spain, Italy",2016,6.9,80123777,2016,2019.0
+"United States, Sweden",2017,7.0,80215922,2017,2019.0
+"United States, United Arab Emirates",2013,7.6,70112731,2009,2019.0
+"United States, United Kingdom",2019,8.8,81014345,2019,2020.0
+"United States, United Kingdom, Australia",2013,7.5,70283202,2013,2019.0
+"United States, United Kingdom, Canada",2007,6.9,70065096,2007,2020.0
+"United States, United Kingdom, Canada, Japan",2010,7.5,70117312,2010,2018.0
+"United States, United Kingdom, Denmark, Sweden",2014,5.5,70304990,2014,2017.0
+"United States, United Kingdom, France",2015,7.0,80025495,2015,2019.0
+"United States, United Kingdom, France, Germany, Japan",2013,5.6,70271454,2013,2020.0
+"United States, United Kingdom, Germany",2005,8.2,70039175,2005,2018.0
+"United States, United Kingdom, Italy",2001,7.2,60021796,2001,2019.0
+"United States, United Kingdom, Morocco",2015,6.6,81035749,2015,2018.0
+"United States, United Kingdom, Spain, South Korea",2015,6.3,80049281,2015,2018.0
+"Uruguay, Spain, Mexico",2018,6.2,81025973,2018,2019.0
+Venezuela,1997,6.4,80193423,2017,2017.0
+Vietnam,2019,5.8,81002592,2016,2018.0

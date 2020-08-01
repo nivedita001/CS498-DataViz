@@ -1,0 +1,26 @@
+rating,type,rating_count
+G,Movie,36
+G,TV Show,1
+NC-17,Movie,2
+NR,Movie,202
+NR,TV Show,16
+PG,Movie,183
+PG,TV Show,1
+PG-13,Movie,286
+R,Movie,506
+R,TV Show,2
+TV-14,Movie,1038
+TV-14,TV Show,660
+TV-G,Movie,80
+TV-G,TV Show,69
+TV-MA,Movie,1356
+TV-MA,TV Show,681
+TV-PG,Movie,432
+TV-PG,TV Show,269
+TV-Y,Movie,41
+TV-Y,TV Show,102
+TV-Y7,Movie,69
+TV-Y7,TV Show,100
+TV-Y7-FV,Movie,27
+TV-Y7-FV,TV Show,68
+UR,Movie,7

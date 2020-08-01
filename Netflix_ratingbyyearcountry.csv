@@ -1,0 +1,722 @@
+year_added,type,country,total_count
+2008.0,Movie,United States,1
+2008.0,TV Show,United States,1
+2009.0,Movie,Denmark,1
+2009.0,Movie,United States,1
+2010.0,Movie,United States,1
+2011.0,Movie, France,1
+2011.0,Movie, Mexico,1
+2011.0,Movie,Spain,1
+2011.0,Movie,United States,12
+2012.0,Movie, Mexico,1
+2012.0,Movie,United States,4
+2012.0,TV Show,United States,3
+2013.0,Movie,Canada,1
+2013.0,Movie,United States,5
+2013.0,TV Show, Ireland,1
+2013.0,TV Show, United Kingdom,1
+2013.0,TV Show,United States,6
+2014.0,Movie,,1
+2014.0,Movie, Bermuda,1
+2014.0,Movie, Canada,1
+2014.0,Movie, Ecuador,1
+2014.0,Movie, Egypt,1
+2014.0,Movie, United States,2
+2014.0,Movie,United Kingdom,3
+2014.0,Movie,United States,16
+2014.0,TV Show, Canada,1
+2014.0,TV Show, Hungary,1
+2014.0,TV Show, Ireland,1
+2014.0,TV Show, United States,2
+2014.0,TV Show,Canada,2
+2014.0,TV Show,Norway,1
+2014.0,TV Show,United States,3
+2015.0,Movie, Belgium,2
+2015.0,Movie, France,4
+2015.0,Movie, Ireland,2
+2015.0,Movie, Italy,2
+2015.0,Movie, New Zealand,1
+2015.0,Movie, Ukraine,1
+2015.0,Movie, United Kingdom,2
+2015.0,Movie, United States,2
+2015.0,Movie,Australia,3
+2015.0,Movie,Belgium,1
+2015.0,Movie,Canada,2
+2015.0,Movie,France,2
+2015.0,Movie,Germany,1
+2015.0,Movie,Italy,1
+2015.0,Movie,Mexico,1
+2015.0,Movie,New Zealand,1
+2015.0,Movie,Nigeria,1
+2015.0,Movie,Norway,1
+2015.0,Movie,United Kingdom,1
+2015.0,Movie,United States,43
+2015.0,TV Show, Australia,2
+2015.0,TV Show, Canada,1
+2015.0,TV Show, Germany,1
+2015.0,TV Show, Greece,1
+2015.0,TV Show, Italy,1
+2015.0,TV Show, United Kingdom,2
+2015.0,TV Show, United States,2
+2015.0,TV Show,Canada,4
+2015.0,TV Show,France,3
+2015.0,TV Show,Germany,1
+2015.0,TV Show,Japan,1
+2015.0,TV Show,United Kingdom,5
+2015.0,TV Show,United States,18
+2016.0,Movie, Australia,2
+2016.0,Movie, Belgium,3
+2016.0,Movie, Canada,7
+2016.0,Movie, Chile,1
+2016.0,Movie, China,2
+2016.0,Movie, Denmark,1
+2016.0,Movie, Finland,1
+2016.0,Movie, France,5
+2016.0,Movie, Germany,6
+2016.0,Movie, Greece,3
+2016.0,Movie, Hong Kong,1
+2016.0,Movie, Hungary,1
+2016.0,Movie, India,2
+2016.0,Movie, Indonesia,1
+2016.0,Movie, Israel,1
+2016.0,Movie, Japan,1
+2016.0,Movie, Jordan,1
+2016.0,Movie, Kazakhstan,1
+2016.0,Movie, Montenegro,1
+2016.0,Movie, Netherlands,2
+2016.0,Movie, Norway,2
+2016.0,Movie, Peru,1
+2016.0,Movie, Qatar,1
+2016.0,Movie, Serbia,1
+2016.0,Movie, Slovenia,1
+2016.0,Movie, South Africa,2
+2016.0,Movie, South Korea,1
+2016.0,Movie, Spain,3
+2016.0,Movie, United Kingdom,7
+2016.0,Movie, United States,17
+2016.0,Movie, Zimbabwe,1
+2016.0,Movie,Argentina,3
+2016.0,Movie,Australia,4
+2016.0,Movie,Austria,1
+2016.0,Movie,Belgium,1
+2016.0,Movie,Brazil,2
+2016.0,Movie,Canada,10
+2016.0,Movie,Chile,1
+2016.0,Movie,China,3
+2016.0,Movie,Croatia,1
+2016.0,Movie,Denmark,5
+2016.0,Movie,France,12
+2016.0,Movie,Germany,4
+2016.0,Movie,Hong Kong,3
+2016.0,Movie,India,13
+2016.0,Movie,Ireland,1
+2016.0,Movie,Israel,2
+2016.0,Movie,Italy,2
+2016.0,Movie,Japan,6
+2016.0,Movie,Mexico,9
+2016.0,Movie,Netherlands,4
+2016.0,Movie,Nigeria,1
+2016.0,Movie,Norway,1
+2016.0,Movie,Pakistan,1
+2016.0,Movie,Peru,2
+2016.0,Movie,Spain,11
+2016.0,Movie,United Arab Emirates,1
+2016.0,Movie,United Kingdom,25
+2016.0,Movie,United States,135
+2016.0,TV Show, Azerbaijan,1
+2016.0,TV Show, Canada,4
+2016.0,TV Show, China,1
+2016.0,TV Show, Cuba,1
+2016.0,TV Show, France,9
+2016.0,TV Show, Germany,3
+2016.0,TV Show, Greece,2
+2016.0,TV Show, Japan,12
+2016.0,TV Show, Netherlands,2
+2016.0,TV Show, New Zealand,3
+2016.0,TV Show, Russia,1
+2016.0,TV Show, South Korea,1
+2016.0,TV Show, Spain,2
+2016.0,TV Show, United Kingdom,2
+2016.0,TV Show, United States,5
+2016.0,TV Show,Australia,4
+2016.0,TV Show,Brazil,1
+2016.0,TV Show,Canada,14
+2016.0,TV Show,China,3
+2016.0,TV Show,Colombia,2
+2016.0,TV Show,Denmark,1
+2016.0,TV Show,France,5
+2016.0,TV Show,Germany,1
+2016.0,TV Show,Iceland,1
+2016.0,TV Show,Ireland,2
+2016.0,TV Show,Italy,1
+2016.0,TV Show,Japan,14
+2016.0,TV Show,Norway,2
+2016.0,TV Show,Pakistan,3
+2016.0,TV Show,Poland,1
+2016.0,TV Show,Russia,1
+2016.0,TV Show,South Korea,8
+2016.0,TV Show,Spain,2
+2016.0,TV Show,Sweden,1
+2016.0,TV Show,Switzerland,1
+2016.0,TV Show,Taiwan,29
+2016.0,TV Show,Turkey,4
+2016.0,TV Show,United Kingdom,20
+2016.0,TV Show,United States,71
+2017.0,Movie, Afghanistan,1
+2017.0,Movie, Argentina,6
+2017.0,Movie, Armenia,1
+2017.0,Movie, Australia,5
+2017.0,Movie, Austria,1
+2017.0,Movie, Belgium,18
+2017.0,Movie, Botswana,1
+2017.0,Movie, Brazil,2
+2017.0,Movie, Bulgaria,1
+2017.0,Movie, Canada,14
+2017.0,Movie, China,5
+2017.0,Movie, Colombia,1
+2017.0,Movie, Croatia,1
+2017.0,Movie, Czech Republic,2
+2017.0,Movie, Denmark,3
+2017.0,Movie, France,22
+2017.0,Movie, Germany,14
+2017.0,Movie, Greece,1
+2017.0,Movie, Hong Kong,6
+2017.0,Movie, Iceland,1
+2017.0,Movie, India,10
+2017.0,Movie, Iran,1
+2017.0,Movie, Ireland,2
+2017.0,Movie, Israel,2
+2017.0,Movie, Italy,5
+2017.0,Movie, Japan,5
+2017.0,Movie, Jordan,3
+2017.0,Movie, Latvia,1
+2017.0,Movie, Lebanon,1
+2017.0,Movie, Malaysia,1
+2017.0,Movie, Mexico,4
+2017.0,Movie, Mongolia,1
+2017.0,Movie, Morocco,1
+2017.0,Movie, Nepal,1
+2017.0,Movie, Netherlands,4
+2017.0,Movie, New Zealand,1
+2017.0,Movie, Nicaragua,1
+2017.0,Movie, Norway,1
+2017.0,Movie, Panama,1
+2017.0,Movie, Peru,1
+2017.0,Movie, Philippines,1
+2017.0,Movie, Poland,1
+2017.0,Movie, Qatar,4
+2017.0,Movie, Romania,1
+2017.0,Movie, Russia,2
+2017.0,Movie, Samoa,1
+2017.0,Movie, Senegal,1
+2017.0,Movie, Singapore,1
+2017.0,Movie, Slovakia,1
+2017.0,Movie, South Africa,3
+2017.0,Movie, South Korea,1
+2017.0,Movie, Soviet Union,2
+2017.0,Movie, Spain,11
+2017.0,Movie, Sri Lanka,1
+2017.0,Movie, Sweden,7
+2017.0,Movie, Switzerland,4
+2017.0,Movie, Thailand,1
+2017.0,Movie, United Arab Emirates,2
+2017.0,Movie, United Kingdom,12
+2017.0,Movie, United States,49
+2017.0,Movie, Uruguay,4
+2017.0,Movie, Venezuela,1
+2017.0,Movie,Argentina,10
+2017.0,Movie,Australia,12
+2017.0,Movie,Austria,1
+2017.0,Movie,Belgium,4
+2017.0,Movie,Brazil,15
+2017.0,Movie,Bulgaria,1
+2017.0,Movie,Cambodia,1
+2017.0,Movie,Canada,41
+2017.0,Movie,Chile,5
+2017.0,Movie,China,13
+2017.0,Movie,Czech Republic,2
+2017.0,Movie,Denmark,1
+2017.0,Movie,Finland,1
+2017.0,Movie,France,28
+2017.0,Movie,Georgia,1
+2017.0,Movie,Germany,16
+2017.0,Movie,Hong Kong,2
+2017.0,Movie,Iceland,1
+2017.0,Movie,India,178
+2017.0,Movie,Indonesia,1
+2017.0,Movie,Ireland,4
+2017.0,Movie,Israel,3
+2017.0,Movie,Italy,8
+2017.0,Movie,Japan,18
+2017.0,Movie,Lebanon,1
+2017.0,Movie,Malaysia,4
+2017.0,Movie,Mexico,21
+2017.0,Movie,Netherlands,4
+2017.0,Movie,New Zealand,2
+2017.0,Movie,Nigeria,1
+2017.0,Movie,Norway,4
+2017.0,Movie,Pakistan,5
+2017.0,Movie,Portugal,1
+2017.0,Movie,Russia,2
+2017.0,Movie,Saudi Arabia,1
+2017.0,Movie,Singapore,1
+2017.0,Movie,Slovenia,1
+2017.0,Movie,South Africa,1
+2017.0,Movie,South Korea,11
+2017.0,Movie,Spain,27
+2017.0,Movie,Sweden,3
+2017.0,Movie,Switzerland,1
+2017.0,Movie,Thailand,1
+2017.0,Movie,Turkey,32
+2017.0,Movie,United Arab Emirates,2
+2017.0,Movie,United Kingdom,71
+2017.0,Movie,United States,345
+2017.0,Movie,Uruguay,1
+2017.0,Movie,Venezuela,1
+2017.0,Movie,Vietnam,1
+2017.0,Movie,West Germany,1
+2017.0,TV Show, Australia,1
+2017.0,TV Show, Canada,5
+2017.0,TV Show, Chile,1
+2017.0,TV Show, China,1
+2017.0,TV Show, Colombia,1
+2017.0,TV Show, France,2
+2017.0,TV Show, Germany,2
+2017.0,TV Show, Ireland,1
+2017.0,TV Show, Italy,1
+2017.0,TV Show, Japan,2
+2017.0,TV Show, Mexico,2
+2017.0,TV Show, New Zealand,1
+2017.0,TV Show, Singapore,1
+2017.0,TV Show, South Africa,1
+2017.0,TV Show, South Korea,1
+2017.0,TV Show, United Kingdom,5
+2017.0,TV Show, United States,12
+2017.0,TV Show,Argentina,1
+2017.0,TV Show,Australia,12
+2017.0,TV Show,Belgium,1
+2017.0,TV Show,Canada,12
+2017.0,TV Show,Chile,3
+2017.0,TV Show,China,6
+2017.0,TV Show,Colombia,4
+2017.0,TV Show,Denmark,1
+2017.0,TV Show,France,6
+2017.0,TV Show,Germany,1
+2017.0,TV Show,India,14
+2017.0,TV Show,Indonesia,1
+2017.0,TV Show,Israel,2
+2017.0,TV Show,Italy,4
+2017.0,TV Show,Japan,21
+2017.0,TV Show,Malaysia,3
+2017.0,TV Show,Mexico,9
+2017.0,TV Show,Norway,1
+2017.0,TV Show,Russia,4
+2017.0,TV Show,Singapore,8
+2017.0,TV Show,South Korea,33
+2017.0,TV Show,Spain,6
+2017.0,TV Show,Sweden,1
+2017.0,TV Show,Taiwan,11
+2017.0,TV Show,Thailand,1
+2017.0,TV Show,Turkey,12
+2017.0,TV Show,Ukraine,1
+2017.0,TV Show,United Kingdom,52
+2017.0,TV Show,United States,156
+2018.0,Movie,,1
+2018.0,Movie, Albania,1
+2018.0,Movie, Argentina,3
+2018.0,Movie, Australia,7
+2018.0,Movie, Austria,1
+2018.0,Movie, Bangladesh,1
+2018.0,Movie, Belgium,11
+2018.0,Movie, Brazil,2
+2018.0,Movie, Bulgaria,1
+2018.0,Movie, Canada,25
+2018.0,Movie, Cayman Islands,1
+2018.0,Movie, Chile,2
+2018.0,Movie, China,15
+2018.0,Movie, Colombia,2
+2018.0,Movie, Croatia,1
+2018.0,Movie, Denmark,4
+2018.0,Movie, Dominican Republic,1
+2018.0,Movie, Finland,1
+2018.0,Movie, France,28
+2018.0,Movie, Germany,15
+2018.0,Movie, Greece,1
+2018.0,Movie, Hong Kong,7
+2018.0,Movie, Iceland,1
+2018.0,Movie, India,10
+2018.0,Movie, Indonesia,2
+2018.0,Movie, Iran,2
+2018.0,Movie, Iraq,1
+2018.0,Movie, Ireland,1
+2018.0,Movie, Israel,2
+2018.0,Movie, Italy,4
+2018.0,Movie, Japan,4
+2018.0,Movie, Jordan,1
+2018.0,Movie, Kenya,1
+2018.0,Movie, Luxembourg,3
+2018.0,Movie, Mexico,4
+2018.0,Movie, Morocco,4
+2018.0,Movie, Namibia,1
+2018.0,Movie, Netherlands,6
+2018.0,Movie, New Zealand,1
+2018.0,Movie, Peru,1
+2018.0,Movie, Poland,5
+2018.0,Movie, Portugal,1
+2018.0,Movie, Qatar,1
+2018.0,Movie, Serbia,1
+2018.0,Movie, Singapore,1
+2018.0,Movie, Slovenia,1
+2018.0,Movie, South Africa,6
+2018.0,Movie, South Korea,2
+2018.0,Movie, Spain,9
+2018.0,Movie, Sudan,1
+2018.0,Movie, Sweden,5
+2018.0,Movie, Switzerland,2
+2018.0,Movie, Taiwan,1
+2018.0,Movie, Turkey,1
+2018.0,Movie, Uganda,1
+2018.0,Movie, United Arab Emirates,4
+2018.0,Movie, United Kingdom,28
+2018.0,Movie, United States,83
+2018.0,Movie, Zimbabwe,1
+2018.0,Movie,Argentina,21
+2018.0,Movie,Australia,22
+2018.0,Movie,Belgium,1
+2018.0,Movie,Brazil,14
+2018.0,Movie,Bulgaria,3
+2018.0,Movie,Cambodia,1
+2018.0,Movie,Canada,35
+2018.0,Movie,Chile,7
+2018.0,Movie,China,18
+2018.0,Movie,Colombia,7
+2018.0,Movie,Czech Republic,2
+2018.0,Movie,Denmark,5
+2018.0,Movie,Egypt,1
+2018.0,Movie,France,24
+2018.0,Movie,Georgia,1
+2018.0,Movie,Germany,13
+2018.0,Movie,Guatemala,1
+2018.0,Movie,Hong Kong,49
+2018.0,Movie,Hungary,2
+2018.0,Movie,Iceland,1
+2018.0,Movie,India,333
+2018.0,Movie,Indonesia,26
+2018.0,Movie,Ireland,9
+2018.0,Movie,Israel,3
+2018.0,Movie,Italy,10
+2018.0,Movie,Japan,11
+2018.0,Movie,Malaysia,2
+2018.0,Movie,Mexico,18
+2018.0,Movie,Netherlands,4
+2018.0,Movie,New Zealand,3
+2018.0,Movie,Nigeria,2
+2018.0,Movie,Norway,2
+2018.0,Movie,Pakistan,5
+2018.0,Movie,Peru,2
+2018.0,Movie,Philippines,4
+2018.0,Movie,Poland,2
+2018.0,Movie,Portugal,1
+2018.0,Movie,Russia,2
+2018.0,Movie,Serbia,2
+2018.0,Movie,Singapore,6
+2018.0,Movie,Somalia,1
+2018.0,Movie,South Africa,5
+2018.0,Movie,South Korea,13
+2018.0,Movie,Soviet Union,1
+2018.0,Movie,Spain,29
+2018.0,Movie,Sweden,2
+2018.0,Movie,Switzerland,3
+2018.0,Movie,Taiwan,1
+2018.0,Movie,Thailand,28
+2018.0,Movie,Turkey,11
+2018.0,Movie,United Arab Emirates,3
+2018.0,Movie,United Kingdom,75
+2018.0,Movie,United States,438
+2018.0,Movie,Uruguay,2
+2018.0,Movie,Venezuela,1
+2018.0,Movie,Vietnam,2
+2018.0,TV Show, Australia,1
+2018.0,TV Show, Belgium,1
+2018.0,TV Show, Brazil,2
+2018.0,TV Show, Canada,10
+2018.0,TV Show, Colombia,1
+2018.0,TV Show, Czech Republic,2
+2018.0,TV Show, Egypt,1
+2018.0,TV Show, France,5
+2018.0,TV Show, Germany,4
+2018.0,TV Show, Indonesia,1
+2018.0,TV Show, Ireland,1
+2018.0,TV Show, Israel,1
+2018.0,TV Show, Italy,2
+2018.0,TV Show, Japan,3
+2018.0,TV Show, Kuwait,1
+2018.0,TV Show, Lebanon,1
+2018.0,TV Show, Mexico,5
+2018.0,TV Show, New Zealand,2
+2018.0,TV Show, Russia,1
+2018.0,TV Show, South Africa,2
+2018.0,TV Show, South Korea,3
+2018.0,TV Show, Sweden,2
+2018.0,TV Show, Syria,1
+2018.0,TV Show, United Kingdom,4
+2018.0,TV Show, United States,18
+2018.0,TV Show, West Germany,1
+2018.0,TV Show,Argentina,3
+2018.0,TV Show,Australia,10
+2018.0,TV Show,Belgium,1
+2018.0,TV Show,Brazil,4
+2018.0,TV Show,Canada,15
+2018.0,TV Show,China,9
+2018.0,TV Show,Colombia,6
+2018.0,TV Show,Czech Republic,1
+2018.0,TV Show,Denmark,2
+2018.0,TV Show,Egypt,1
+2018.0,TV Show,Finland,1
+2018.0,TV Show,France,12
+2018.0,TV Show,Germany,4
+2018.0,TV Show,Hong Kong,1
+2018.0,TV Show,India,20
+2018.0,TV Show,Ireland,3
+2018.0,TV Show,Israel,4
+2018.0,TV Show,Japan,38
+2018.0,TV Show,Lebanon,1
+2018.0,TV Show,Malaysia,1
+2018.0,TV Show,Mexico,7
+2018.0,TV Show,New Zealand,1
+2018.0,TV Show,Norway,2
+2018.0,TV Show,Philippines,1
+2018.0,TV Show,Poland,2
+2018.0,TV Show,Russia,4
+2018.0,TV Show,Saudi Arabia,1
+2018.0,TV Show,Singapore,1
+2018.0,TV Show,South Korea,17
+2018.0,TV Show,Spain,8
+2018.0,TV Show,Sweden,1
+2018.0,TV Show,Taiwan,7
+2018.0,TV Show,Thailand,7
+2018.0,TV Show,Turkey,2
+2018.0,TV Show,Ukraine,1
+2018.0,TV Show,United Kingdom,51
+2018.0,TV Show,United States,242
+2019.0,Movie,,1
+2019.0,Movie, Argentina,3
+2019.0,Movie, Australia,10
+2019.0,Movie, Austria,1
+2019.0,Movie, Belgium,15
+2019.0,Movie, Brazil,2
+2019.0,Movie, Bulgaria,1
+2019.0,Movie, Cambodia,1
+2019.0,Movie, Canada,25
+2019.0,Movie, Chile,1
+2019.0,Movie, China,18
+2019.0,Movie, Czech Republic,4
+2019.0,Movie, Denmark,2
+2019.0,Movie, Finland,2
+2019.0,Movie, France,37
+2019.0,Movie, Germany,27
+2019.0,Movie, Hong Kong,7
+2019.0,Movie, Hungary,1
+2019.0,Movie, India,6
+2019.0,Movie, Iraq,1
+2019.0,Movie, Ireland,2
+2019.0,Movie, Italy,9
+2019.0,Movie, Japan,9
+2019.0,Movie, Liechtenstein,1
+2019.0,Movie, Luxembourg,4
+2019.0,Movie, Malawi,1
+2019.0,Movie, Malaysia,1
+2019.0,Movie, Malta,1
+2019.0,Movie, Mexico,6
+2019.0,Movie, Morocco,1
+2019.0,Movie, Nepal,1
+2019.0,Movie, Netherlands,3
+2019.0,Movie, New Zealand,2
+2019.0,Movie, Norway,2
+2019.0,Movie, Pakistan,2
+2019.0,Movie, Peru,1
+2019.0,Movie, Poland,4
+2019.0,Movie, Portugal,1
+2019.0,Movie, Russia,1
+2019.0,Movie, Senegal,1
+2019.0,Movie, Serbia,1
+2019.0,Movie, Singapore,5
+2019.0,Movie, South Africa,2
+2019.0,Movie, South Korea,3
+2019.0,Movie, Spain,9
+2019.0,Movie, Sweden,6
+2019.0,Movie, Switzerland,2
+2019.0,Movie, Taiwan,2
+2019.0,Movie, Thailand,1
+2019.0,Movie, Turkey,3
+2019.0,Movie, United Arab Emirates,5
+2019.0,Movie, United Kingdom,36
+2019.0,Movie, United States,74
+2019.0,Movie, Uruguay,1
+2019.0,Movie, Vatican City,1
+2019.0,Movie, West Germany,1
+2019.0,Movie,Argentina,8
+2019.0,Movie,Australia,8
+2019.0,Movie,Austria,3
+2019.0,Movie,Bangladesh,2
+2019.0,Movie,Belgium,2
+2019.0,Movie,Brazil,10
+2019.0,Movie,Bulgaria,1
+2019.0,Movie,Canada,40
+2019.0,Movie,Chile,2
+2019.0,Movie,China,10
+2019.0,Movie,Colombia,3
+2019.0,Movie,Denmark,7
+2019.0,Movie,Dominican Republic,1
+2019.0,Movie,Egypt,43
+2019.0,Movie,Finland,1
+2019.0,Movie,France,31
+2019.0,Movie,Germany,17
+2019.0,Movie,Ghana,2
+2019.0,Movie,Hong Kong,17
+2019.0,Movie,Iceland,1
+2019.0,Movie,India,223
+2019.0,Movie,Indonesia,18
+2019.0,Movie,Iran,1
+2019.0,Movie,Ireland,1
+2019.0,Movie,Israel,4
+2019.0,Movie,Italy,9
+2019.0,Movie,Japan,16
+2019.0,Movie,Malaysia,5
+2019.0,Movie,Mexico,14
+2019.0,Movie,Netherlands,4
+2019.0,Movie,New Zealand,2
+2019.0,Movie,Nigeria,31
+2019.0,Movie,Pakistan,6
+2019.0,Movie,Paraguay,1
+2019.0,Movie,Peru,1
+2019.0,Movie,Philippines,41
+2019.0,Movie,Poland,9
+2019.0,Movie,Romania,5
+2019.0,Movie,Singapore,2
+2019.0,Movie,South Africa,5
+2019.0,Movie,South Korea,12
+2019.0,Movie,Spain,30
+2019.0,Movie,Sweden,2
+2019.0,Movie,Switzerland,2
+2019.0,Movie,Taiwan,5
+2019.0,Movie,Thailand,7
+2019.0,Movie,Turkey,15
+2019.0,Movie,United Arab Emirates,3
+2019.0,Movie,United Kingdom,95
+2019.0,Movie,United States,766
+2019.0,Movie,Uruguay,1
+2019.0,Movie,Vietnam,1
+2019.0,TV Show, Australia,2
+2019.0,TV Show, Austria,1
+2019.0,TV Show, Belgium,1
+2019.0,TV Show, Brazil,1
+2019.0,TV Show, Canada,9
+2019.0,TV Show, China,1
+2019.0,TV Show, Colombia,2
+2019.0,TV Show, Czech Republic,2
+2019.0,TV Show, France,4
+2019.0,TV Show, Germany,3
+2019.0,TV Show, Hong Kong,2
+2019.0,TV Show, Japan,7
+2019.0,TV Show, Jordan,1
+2019.0,TV Show, Malta,1
+2019.0,TV Show, Mexico,5
+2019.0,TV Show, Netherlands,1
+2019.0,TV Show, Singapore,2
+2019.0,TV Show, South Africa,2
+2019.0,TV Show, South Korea,2
+2019.0,TV Show, Spain,4
+2019.0,TV Show, Sweden,1
+2019.0,TV Show, Thailand,1
+2019.0,TV Show, United Kingdom,8
+2019.0,TV Show, United States,27
+2019.0,TV Show, West Germany,1
+2019.0,TV Show,Argentina,10
+2019.0,TV Show,Australia,17
+2019.0,TV Show,Belgium,3
+2019.0,TV Show,Brazil,10
+2019.0,TV Show,Canada,26
+2019.0,TV Show,China,14
+2019.0,TV Show,Colombia,7
+2019.0,TV Show,Croatia,1
+2019.0,TV Show,Cyprus,1
+2019.0,TV Show,Denmark,5
+2019.0,TV Show,Egypt,7
+2019.0,TV Show,Finland,2
+2019.0,TV Show,France,23
+2019.0,TV Show,Germany,4
+2019.0,TV Show,Hong Kong,1
+2019.0,TV Show,India,20
+2019.0,TV Show,Ireland,2
+2019.0,TV Show,Israel,2
+2019.0,TV Show,Italy,5
+2019.0,TV Show,Japan,53
+2019.0,TV Show,Lebanon,5
+2019.0,TV Show,Malaysia,3
+2019.0,TV Show,Mauritius,1
+2019.0,TV Show,Mexico,17
+2019.0,TV Show,Netherlands,2
+2019.0,TV Show,New Zealand,1
+2019.0,TV Show,Norway,2
+2019.0,TV Show,Pakistan,1
+2019.0,TV Show,Poland,2
+2019.0,TV Show,Russia,2
+2019.0,TV Show,Singapore,1
+2019.0,TV Show,South Korea,50
+2019.0,TV Show,Spain,23
+2019.0,TV Show,Sweden,2
+2019.0,TV Show,Taiwan,18
+2019.0,TV Show,Thailand,9
+2019.0,TV Show,Turkey,7
+2019.0,TV Show,United Arab Emirates,1
+2019.0,TV Show,United Kingdom,70
+2019.0,TV Show,United States,373
+2020.0,Movie, Australia,2
+2020.0,Movie, Canada,9
+2020.0,Movie, East Germany,1
+2020.0,Movie, France,7
+2020.0,Movie, Germany,10
+2020.0,Movie, Hong Kong,1
+2020.0,Movie, India,2
+2020.0,Movie, Italy,2
+2020.0,Movie, Japan,4
+2020.0,Movie, Malaysia,1
+2020.0,Movie, Mexico,2
+2020.0,Movie, Singapore,1
+2020.0,Movie, South Korea,2
+2020.0,Movie, Spain,1
+2020.0,Movie, Taiwan,1
+2020.0,Movie, United Kingdom,12
+2020.0,Movie, United States,15
+2020.0,Movie, West Germany,1
+2020.0,Movie,Australia,1
+2020.0,Movie,Austria,1
+2020.0,Movie,Brazil,1
+2020.0,Movie,Canada,1
+2020.0,Movie,Germany,3
+2020.0,Movie,India,6
+2020.0,Movie,Indonesia,2
+2020.0,Movie,Japan,1
+2020.0,Movie,Mexico,3
+2020.0,Movie,New Zealand,2
+2020.0,Movie,Poland,1
+2020.0,Movie,South Africa,1
+2020.0,Movie,South Korea,1
+2020.0,Movie,Spain,2
+2020.0,Movie,United Kingdom,12
+2020.0,Movie,United States,109
+2020.0,TV Show, Canada,1
+2020.0,TV Show, Germany,1
+2020.0,TV Show, Italy,1
+2020.0,TV Show,Belgium,1
+2020.0,TV Show,Canada,3
+2020.0,TV Show,China,1
+2020.0,TV Show,France,1
+2020.0,TV Show,India,1
+2020.0,TV Show,Japan,4
+2020.0,TV Show,Netherlands,1
+2020.0,TV Show,Russia,1
+2020.0,TV Show,South Korea,1
+2020.0,TV Show,United Kingdom,2
+2020.0,TV Show,United States,21
