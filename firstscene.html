@@ -55,7 +55,21 @@
     .dot {
     fill: steelblue;
     stroke: #fff;
-}</style>
+
+}
+div.tooltip {	
+    position: absolute;			
+    text-align: center;			
+    width: 110px;					
+    height: 50px;					
+    padding: 2px;				
+    font: 12px Verdana;		
+    background: #dec6b0;	
+    border: 0px;		
+    border-radius: 8px;			
+    pointer-events: none;			
+}
+</style>
 </head>
 <body>
  <p style="text-align: center;"><span style="text-decoration: underline; color: red; font-size: 30px;"><strong>Netflix Content Growth Analysis</strong></span></p>
@@ -100,8 +114,10 @@ dataset.then(function(data) {
         //console.log(d)
       });
 
-
-    console.log(data)
+      var div = d3.select("div#container").append("div")	
+    .attr("class", "tooltip")				
+    .style("opacity", 0);
+    //console.log(data)
  
     var countbyyear = d3.nest()
   .key(function(d) { return (d.year_added); })
@@ -153,7 +169,21 @@ var valueline = d3.line()
     .attr("class", "dot") // Assign a class for styling
     .attr("cx", function(d) {  return xScale(new Date(d.key));})
     .attr("cy", function(d) { return yScale(d.value);})
-    .attr("r", 4);
+    .attr("r", 4)
+    .on("mouseover", function(d) {		
+		div.transition()		
+			.duration(200)		
+			.style("opacity", .9);		
+
+		div	.html("Year_added: " + d.key +  "<br>Count:" + d.value )	
+			.style("left", (d3.event.pageX) + "px")		
+			.style("top", (d3.event.pageY - 84) + "px");	
+		})					
+	  .on("mouseout", function(d) {		
+	div.transition()		
+		.duration(500)		
+		.style("opacity", 0);	
+	});
 //-----------------------------AXES-----------------------------//
 
 svg.append("g")

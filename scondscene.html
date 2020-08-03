@@ -48,7 +48,20 @@
     .dot {
     fill: steelblue;
     stroke: #fff;
-}</style>
+}
+div.tooltip {	
+    position: absolute;			
+    text-align: center;			
+    width: 110px;					
+    height: 50px;					
+    padding: 2px;				
+    font: 12px Verdana;		
+    background: #dec6b0;	
+    border: 0px;		
+    border-radius: 8px;			
+    pointer-events: none;			
+}
+</style>
 </head>
 <body>
  <p style="text-align: center;"><span style="text-decoration: underline; color: red; font-size: 30px;"><strong>Netflix Content Growth Analysis</strong></span></p>
@@ -141,7 +154,9 @@ d3.json("https://raw.githubusercontent.com/nivedita001/CS498-DataViz/master/Netf
 
     buildtypeyearlist(data);
  
-
+    var div = d3.select("div#container").append("div")	
+    .attr("class", "tooltip")				
+    .style("opacity", 0);
 
 console.log(movieyear)
 
@@ -184,7 +199,21 @@ var valueline = d3.line()
     .attr("class", "dot") // Assign a class for styling
     .attr("cx", function(d) {  return xScale(new Date(d.year_added));})
     .attr("cy", function(d) { return yScale(d.total_count);})
-    .attr("r", 4);
+    .attr("r", 4)
+    .on("mouseover", function(d) {		
+		div.transition()		
+			.duration(200)		
+			.style("opacity", .9);		
+
+		div	.html("Year_added: " + d.year_added +  "<br>Count:" + d.total_count )	
+			.style("left", (d3.event.pageX) + "px")		
+			.style("top", (d3.event.pageY - 84) + "px");	
+		})					
+	  .on("mouseout", function(d) {		
+	div.transition()		
+		.duration(500)		
+		.style("opacity", 0);	
+	});
 //-----------------------------AXES-----------------------------//
 
 svg.append("g")
@@ -226,7 +255,21 @@ var valueline = d3.line()
     .attr("class", "dot-0") // Assign a class for styling
     .attr("cx", function(d) {  return xScale(new Date(d.year_added));})
     .attr("cy", function(d) { return yScale(d.total_count);})
-    .attr("r", 4);
+    .attr("r", 4)
+    .on("mouseover", function(d) {		
+		div.transition()		
+			.duration(200)		
+			.style("opacity", .9);		
+
+		div	.html("Year_added: " + d.year_added +  "<br>Count:" + d.total_count )	
+			.style("left", (d3.event.pageX) + "px")		
+			.style("top", (d3.event.pageY - 84) + "px");	
+		})					
+	  .on("mouseout", function(d) {		
+	div.transition()		
+		.duration(500)		
+		.style("opacity", 0);	
+	});
 //--Legend--//
 svg.append("circle").attr("cx",10).attr("cy",10).attr("r", 6).style("fill", "#0884e9")
 svg.append("circle").attr("cx",10).attr("cy",30).attr("r", 6).style("fill", "#ed3700")
