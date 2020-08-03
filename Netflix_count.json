@@ -1,0 +1,2132 @@
+[
+  {
+    "year_added": 2008,
+    "country": "UNITED STATES",
+    "MOVIE": 1,
+    "TV SHOW": 1
+  },
+  {
+    "year_added": 2009,
+    "country": "DENMARK",
+    "MOVIE": 1,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2009,
+    "country": "UNITED STATES",
+    "MOVIE": 1,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2010,
+    "country": "UNITED STATES",
+    "MOVIE": 1,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2011,
+    "country": "FRANCE",
+    "MOVIE": 1,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2011,
+    "country": "MEXICO",
+    "MOVIE": 1,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2011,
+    "country": "SPAIN",
+    "MOVIE": 1,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2011,
+    "country": "UNITED STATES",
+    "MOVIE": 12,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2012,
+    "country": "MEXICO",
+    "MOVIE": 1,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2012,
+    "country": "UNITED STATES",
+    "MOVIE": 4,
+    "TV SHOW": 3
+  },
+  {
+    "year_added": 2013,
+    "country": "CANADA",
+    "MOVIE": 1,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2013,
+    "country": "UNITED STATES",
+    "MOVIE": 5,
+    "TV SHOW": 6
+  },
+  {
+    "year_added": 2013,
+    "country": "IRELAND",
+    "MOVIE": "",
+    "TV SHOW": 1
+  },
+  {
+    "year_added": 2013,
+    "country": "UNITED KINGDOM",
+    "MOVIE": "",
+    "TV SHOW": 1
+  },
+  {
+    "year_added": 2014,
+    "country": "",
+    "MOVIE": 1,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2014,
+    "country": "BERMUDA",
+    "MOVIE": 1,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2014,
+    "country": "CANADA",
+    "MOVIE": 1,
+    "TV SHOW": 2
+  },
+  {
+    "year_added": 2014,
+    "country": "ECUADOR",
+    "MOVIE": 1,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2014,
+    "country": "EGYPT",
+    "MOVIE": 1,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2014,
+    "country": "UNITED STATES",
+    "MOVIE": 16,
+    "TV SHOW": 3
+  },
+  {
+    "year_added": 2014,
+    "country": "UNITED KINGDOM",
+    "MOVIE": 3,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2014,
+    "country": "HUNGARY",
+    "MOVIE": "",
+    "TV SHOW": 1
+  },
+  {
+    "year_added": 2014,
+    "country": "IRELAND",
+    "MOVIE": "",
+    "TV SHOW": 1
+  },
+  {
+    "year_added": 2014,
+    "country": "NORWAY",
+    "MOVIE": "",
+    "TV SHOW": 1
+  },
+  {
+    "year_added": 2015,
+    "country": "BELGIUM",
+    "MOVIE": 1,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2015,
+    "country": "FRANCE",
+    "MOVIE": 2,
+    "TV SHOW": 3
+  },
+  {
+    "year_added": 2015,
+    "country": "IRELAND",
+    "MOVIE": 2,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2015,
+    "country": "ITALY",
+    "MOVIE": 1,
+    "TV SHOW": 1
+  },
+  {
+    "year_added": 2015,
+    "country": "NEW ZEALAND",
+    "MOVIE": 1,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2015,
+    "country": "UKRAINE",
+    "MOVIE": 1,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2015,
+    "country": "UNITED KINGDOM",
+    "MOVIE": 1,
+    "TV SHOW": 5
+  },
+  {
+    "year_added": 2015,
+    "country": "UNITED STATES",
+    "MOVIE": 43,
+    "TV SHOW": 18
+  },
+  {
+    "year_added": 2015,
+    "country": "AUSTRALIA",
+    "MOVIE": 3,
+    "TV SHOW": 2
+  },
+  {
+    "year_added": 2015,
+    "country": "CANADA",
+    "MOVIE": 2,
+    "TV SHOW": 4
+  },
+  {
+    "year_added": 2015,
+    "country": "GERMANY",
+    "MOVIE": 1,
+    "TV SHOW": 1
+  },
+  {
+    "year_added": 2015,
+    "country": "MEXICO",
+    "MOVIE": 1,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2015,
+    "country": "NIGERIA",
+    "MOVIE": 1,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2015,
+    "country": "NORWAY",
+    "MOVIE": 1,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2015,
+    "country": "GREECE",
+    "MOVIE": "",
+    "TV SHOW": 1
+  },
+  {
+    "year_added": 2015,
+    "country": "JAPAN",
+    "MOVIE": "",
+    "TV SHOW": 1
+  },
+  {
+    "year_added": 2016,
+    "country": "AUSTRALIA",
+    "MOVIE": 4,
+    "TV SHOW": 4
+  },
+  {
+    "year_added": 2016,
+    "country": "BELGIUM",
+    "MOVIE": 1,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2016,
+    "country": "CANADA",
+    "MOVIE": 10,
+    "TV SHOW": 14
+  },
+  {
+    "year_added": 2016,
+    "country": "CHILE",
+    "MOVIE": 1,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2016,
+    "country": "CHINA",
+    "MOVIE": 3,
+    "TV SHOW": 3
+  },
+  {
+    "year_added": 2016,
+    "country": "DENMARK",
+    "MOVIE": 5,
+    "TV SHOW": 1
+  },
+  {
+    "year_added": 2016,
+    "country": "FINLAND",
+    "MOVIE": 1,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2016,
+    "country": "FRANCE",
+    "MOVIE": 12,
+    "TV SHOW": 5
+  },
+  {
+    "year_added": 2016,
+    "country": "GERMANY",
+    "MOVIE": 4,
+    "TV SHOW": 1
+  },
+  {
+    "year_added": 2016,
+    "country": "GREECE",
+    "MOVIE": 3,
+    "TV SHOW": 2
+  },
+  {
+    "year_added": 2016,
+    "country": "HONG KONG",
+    "MOVIE": 3,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2016,
+    "country": "HUNGARY",
+    "MOVIE": 1,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2016,
+    "country": "INDIA",
+    "MOVIE": 13,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2016,
+    "country": "INDONESIA",
+    "MOVIE": 1,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2016,
+    "country": "ISRAEL",
+    "MOVIE": 2,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2016,
+    "country": "JAPAN",
+    "MOVIE": 6,
+    "TV SHOW": 14
+  },
+  {
+    "year_added": 2016,
+    "country": "JORDAN",
+    "MOVIE": 1,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2016,
+    "country": "KAZAKHSTAN",
+    "MOVIE": 1,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2016,
+    "country": "MONTENEGRO",
+    "MOVIE": 1,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2016,
+    "country": "NETHERLANDS",
+    "MOVIE": 4,
+    "TV SHOW": 2
+  },
+  {
+    "year_added": 2016,
+    "country": "NORWAY",
+    "MOVIE": 1,
+    "TV SHOW": 2
+  },
+  {
+    "year_added": 2016,
+    "country": "PERU",
+    "MOVIE": 2,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2016,
+    "country": "QATAR",
+    "MOVIE": 1,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2016,
+    "country": "SERBIA",
+    "MOVIE": 1,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2016,
+    "country": "SLOVENIA",
+    "MOVIE": 1,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2016,
+    "country": "SOUTH AFRICA",
+    "MOVIE": 2,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2016,
+    "country": "SOUTH KOREA",
+    "MOVIE": 1,
+    "TV SHOW": 8
+  },
+  {
+    "year_added": 2016,
+    "country": "SPAIN",
+    "MOVIE": 11,
+    "TV SHOW": 2
+  },
+  {
+    "year_added": 2016,
+    "country": "UNITED KINGDOM",
+    "MOVIE": 25,
+    "TV SHOW": 20
+  },
+  {
+    "year_added": 2016,
+    "country": "UNITED STATES",
+    "MOVIE": 135,
+    "TV SHOW": 71
+  },
+  {
+    "year_added": 2016,
+    "country": "ZIMBABWE",
+    "MOVIE": 1,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2016,
+    "country": "ARGENTINA",
+    "MOVIE": 3,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2016,
+    "country": "AUSTRIA",
+    "MOVIE": 1,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2016,
+    "country": "BRAZIL",
+    "MOVIE": 2,
+    "TV SHOW": 1
+  },
+  {
+    "year_added": 2016,
+    "country": "CROATIA",
+    "MOVIE": 1,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2016,
+    "country": "IRELAND",
+    "MOVIE": 1,
+    "TV SHOW": 2
+  },
+  {
+    "year_added": 2016,
+    "country": "ITALY",
+    "MOVIE": 2,
+    "TV SHOW": 1
+  },
+  {
+    "year_added": 2016,
+    "country": "MEXICO",
+    "MOVIE": 9,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2016,
+    "country": "NIGERIA",
+    "MOVIE": 1,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2016,
+    "country": "PAKISTAN",
+    "MOVIE": 1,
+    "TV SHOW": 3
+  },
+  {
+    "year_added": 2016,
+    "country": "UNITED ARAB EMIRATES",
+    "MOVIE": 1,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2016,
+    "country": "AZERBAIJAN",
+    "MOVIE": "",
+    "TV SHOW": 1
+  },
+  {
+    "year_added": 2016,
+    "country": "CUBA",
+    "MOVIE": "",
+    "TV SHOW": 1
+  },
+  {
+    "year_added": 2016,
+    "country": "NEW ZEALAND",
+    "MOVIE": "",
+    "TV SHOW": 3
+  },
+  {
+    "year_added": 2016,
+    "country": "RUSSIA",
+    "MOVIE": "",
+    "TV SHOW": 1
+  },
+  {
+    "year_added": 2016,
+    "country": "COLOMBIA",
+    "MOVIE": "",
+    "TV SHOW": 2
+  },
+  {
+    "year_added": 2016,
+    "country": "ICELAND",
+    "MOVIE": "",
+    "TV SHOW": 1
+  },
+  {
+    "year_added": 2016,
+    "country": "POLAND",
+    "MOVIE": "",
+    "TV SHOW": 1
+  },
+  {
+    "year_added": 2016,
+    "country": "SWEDEN",
+    "MOVIE": "",
+    "TV SHOW": 1
+  },
+  {
+    "year_added": 2016,
+    "country": "SWITZERLAND",
+    "MOVIE": "",
+    "TV SHOW": 1
+  },
+  {
+    "year_added": 2016,
+    "country": "TAIWAN",
+    "MOVIE": "",
+    "TV SHOW": 29
+  },
+  {
+    "year_added": 2016,
+    "country": "TURKEY",
+    "MOVIE": "",
+    "TV SHOW": 4
+  },
+  {
+    "year_added": 2017,
+    "country": "AFGHANISTAN",
+    "MOVIE": 1,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2017,
+    "country": "ARGENTINA",
+    "MOVIE": 10,
+    "TV SHOW": 1
+  },
+  {
+    "year_added": 2017,
+    "country": "ARMENIA",
+    "MOVIE": 1,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2017,
+    "country": "AUSTRALIA",
+    "MOVIE": 12,
+    "TV SHOW": 12
+  },
+  {
+    "year_added": 2017,
+    "country": "AUSTRIA",
+    "MOVIE": 1,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2017,
+    "country": "BELGIUM",
+    "MOVIE": 4,
+    "TV SHOW": 1
+  },
+  {
+    "year_added": 2017,
+    "country": "BOTSWANA",
+    "MOVIE": 1,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2017,
+    "country": "BRAZIL",
+    "MOVIE": 15,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2017,
+    "country": "BULGARIA",
+    "MOVIE": 1,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2017,
+    "country": "CANADA",
+    "MOVIE": 41,
+    "TV SHOW": 12
+  },
+  {
+    "year_added": 2017,
+    "country": "CHINA",
+    "MOVIE": 13,
+    "TV SHOW": 6
+  },
+  {
+    "year_added": 2017,
+    "country": "COLOMBIA",
+    "MOVIE": 1,
+    "TV SHOW": 4
+  },
+  {
+    "year_added": 2017,
+    "country": "CROATIA",
+    "MOVIE": 1,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2017,
+    "country": "CZECH REPUBLIC",
+    "MOVIE": 2,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2017,
+    "country": "DENMARK",
+    "MOVIE": 1,
+    "TV SHOW": 1
+  },
+  {
+    "year_added": 2017,
+    "country": "FRANCE",
+    "MOVIE": 28,
+    "TV SHOW": 6
+  },
+  {
+    "year_added": 2017,
+    "country": "GERMANY",
+    "MOVIE": 16,
+    "TV SHOW": 1
+  },
+  {
+    "year_added": 2017,
+    "country": "GREECE",
+    "MOVIE": 1,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2017,
+    "country": "HONG KONG",
+    "MOVIE": 2,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2017,
+    "country": "ICELAND",
+    "MOVIE": 1,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2017,
+    "country": "INDIA",
+    "MOVIE": 178,
+    "TV SHOW": 14
+  },
+  {
+    "year_added": 2017,
+    "country": "IRAN",
+    "MOVIE": 1,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2017,
+    "country": "IRELAND",
+    "MOVIE": 4,
+    "TV SHOW": 1
+  },
+  {
+    "year_added": 2017,
+    "country": "ISRAEL",
+    "MOVIE": 3,
+    "TV SHOW": 2
+  },
+  {
+    "year_added": 2017,
+    "country": "ITALY",
+    "MOVIE": 8,
+    "TV SHOW": 4
+  },
+  {
+    "year_added": 2017,
+    "country": "JAPAN",
+    "MOVIE": 18,
+    "TV SHOW": 21
+  },
+  {
+    "year_added": 2017,
+    "country": "JORDAN",
+    "MOVIE": 3,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2017,
+    "country": "LATVIA",
+    "MOVIE": 1,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2017,
+    "country": "LEBANON",
+    "MOVIE": 1,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2017,
+    "country": "MALAYSIA",
+    "MOVIE": 4,
+    "TV SHOW": 3
+  },
+  {
+    "year_added": 2017,
+    "country": "MEXICO",
+    "MOVIE": 21,
+    "TV SHOW": 9
+  },
+  {
+    "year_added": 2017,
+    "country": "MONGOLIA",
+    "MOVIE": 1,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2017,
+    "country": "MOROCCO",
+    "MOVIE": 1,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2017,
+    "country": "NEPAL",
+    "MOVIE": 1,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2017,
+    "country": "NETHERLANDS",
+    "MOVIE": 4,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2017,
+    "country": "NEW ZEALAND",
+    "MOVIE": 2,
+    "TV SHOW": 1
+  },
+  {
+    "year_added": 2017,
+    "country": "NICARAGUA",
+    "MOVIE": 1,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2017,
+    "country": "NORWAY",
+    "MOVIE": 4,
+    "TV SHOW": 1
+  },
+  {
+    "year_added": 2017,
+    "country": "PANAMA",
+    "MOVIE": 1,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2017,
+    "country": "PERU",
+    "MOVIE": 1,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2017,
+    "country": "PHILIPPINES",
+    "MOVIE": 1,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2017,
+    "country": "POLAND",
+    "MOVIE": 1,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2017,
+    "country": "QATAR",
+    "MOVIE": 4,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2017,
+    "country": "ROMANIA",
+    "MOVIE": 1,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2017,
+    "country": "RUSSIA",
+    "MOVIE": 2,
+    "TV SHOW": 4
+  },
+  {
+    "year_added": 2017,
+    "country": "SAMOA",
+    "MOVIE": 1,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2017,
+    "country": "SENEGAL",
+    "MOVIE": 1,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2017,
+    "country": "SINGAPORE",
+    "MOVIE": 1,
+    "TV SHOW": 8
+  },
+  {
+    "year_added": 2017,
+    "country": "SLOVAKIA",
+    "MOVIE": 1,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2017,
+    "country": "SOUTH AFRICA",
+    "MOVIE": 1,
+    "TV SHOW": 1
+  },
+  {
+    "year_added": 2017,
+    "country": "SOUTH KOREA",
+    "MOVIE": 11,
+    "TV SHOW": 33
+  },
+  {
+    "year_added": 2017,
+    "country": "SOVIET UNION",
+    "MOVIE": 2,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2017,
+    "country": "SPAIN",
+    "MOVIE": 27,
+    "TV SHOW": 6
+  },
+  {
+    "year_added": 2017,
+    "country": "SRI LANKA",
+    "MOVIE": 1,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2017,
+    "country": "SWEDEN",
+    "MOVIE": 3,
+    "TV SHOW": 1
+  },
+  {
+    "year_added": 2017,
+    "country": "SWITZERLAND",
+    "MOVIE": 1,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2017,
+    "country": "THAILAND",
+    "MOVIE": 1,
+    "TV SHOW": 1
+  },
+  {
+    "year_added": 2017,
+    "country": "UNITED ARAB EMIRATES",
+    "MOVIE": 2,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2017,
+    "country": "UNITED KINGDOM",
+    "MOVIE": 71,
+    "TV SHOW": 52
+  },
+  {
+    "year_added": 2017,
+    "country": "UNITED STATES",
+    "MOVIE": 345,
+    "TV SHOW": 156
+  },
+  {
+    "year_added": 2017,
+    "country": "URUGUAY",
+    "MOVIE": 1,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2017,
+    "country": "VENEZUELA",
+    "MOVIE": 1,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2017,
+    "country": "CAMBODIA",
+    "MOVIE": 1,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2017,
+    "country": "CHILE",
+    "MOVIE": 5,
+    "TV SHOW": 3
+  },
+  {
+    "year_added": 2017,
+    "country": "FINLAND",
+    "MOVIE": 1,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2017,
+    "country": "GEORGIA",
+    "MOVIE": 1,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2017,
+    "country": "INDONESIA",
+    "MOVIE": 1,
+    "TV SHOW": 1
+  },
+  {
+    "year_added": 2017,
+    "country": "NIGERIA",
+    "MOVIE": 1,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2017,
+    "country": "PAKISTAN",
+    "MOVIE": 5,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2017,
+    "country": "PORTUGAL",
+    "MOVIE": 1,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2017,
+    "country": "SAUDI ARABIA",
+    "MOVIE": 1,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2017,
+    "country": "SLOVENIA",
+    "MOVIE": 1,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2017,
+    "country": "TURKEY",
+    "MOVIE": 32,
+    "TV SHOW": 12
+  },
+  {
+    "year_added": 2017,
+    "country": "VIETNAM",
+    "MOVIE": 1,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2017,
+    "country": "WEST GERMANY",
+    "MOVIE": 1,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2017,
+    "country": "TAIWAN",
+    "MOVIE": "",
+    "TV SHOW": 11
+  },
+  {
+    "year_added": 2017,
+    "country": "UKRAINE",
+    "MOVIE": "",
+    "TV SHOW": 1
+  },
+  {
+    "year_added": 2018,
+    "country": "",
+    "MOVIE": 1,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2018,
+    "country": "ALBANIA",
+    "MOVIE": 1,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2018,
+    "country": "ARGENTINA",
+    "MOVIE": 21,
+    "TV SHOW": 3
+  },
+  {
+    "year_added": 2018,
+    "country": "AUSTRALIA",
+    "MOVIE": 22,
+    "TV SHOW": 10
+  },
+  {
+    "year_added": 2018,
+    "country": "AUSTRIA",
+    "MOVIE": 1,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2018,
+    "country": "BANGLADESH",
+    "MOVIE": 1,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2018,
+    "country": "BELGIUM",
+    "MOVIE": 1,
+    "TV SHOW": 1
+  },
+  {
+    "year_added": 2018,
+    "country": "BRAZIL",
+    "MOVIE": 14,
+    "TV SHOW": 4
+  },
+  {
+    "year_added": 2018,
+    "country": "BULGARIA",
+    "MOVIE": 3,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2018,
+    "country": "CANADA",
+    "MOVIE": 35,
+    "TV SHOW": 15
+  },
+  {
+    "year_added": 2018,
+    "country": "CAYMAN ISLANDS",
+    "MOVIE": 1,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2018,
+    "country": "CHILE",
+    "MOVIE": 7,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2018,
+    "country": "CHINA",
+    "MOVIE": 18,
+    "TV SHOW": 9
+  },
+  {
+    "year_added": 2018,
+    "country": "COLOMBIA",
+    "MOVIE": 7,
+    "TV SHOW": 6
+  },
+  {
+    "year_added": 2018,
+    "country": "CROATIA",
+    "MOVIE": 1,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2018,
+    "country": "DENMARK",
+    "MOVIE": 5,
+    "TV SHOW": 2
+  },
+  {
+    "year_added": 2018,
+    "country": "DOMINICAN REPUBLIC",
+    "MOVIE": 1,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2018,
+    "country": "FINLAND",
+    "MOVIE": 1,
+    "TV SHOW": 1
+  },
+  {
+    "year_added": 2018,
+    "country": "FRANCE",
+    "MOVIE": 24,
+    "TV SHOW": 12
+  },
+  {
+    "year_added": 2018,
+    "country": "GERMANY",
+    "MOVIE": 13,
+    "TV SHOW": 4
+  },
+  {
+    "year_added": 2018,
+    "country": "GREECE",
+    "MOVIE": 1,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2018,
+    "country": "HONG KONG",
+    "MOVIE": 49,
+    "TV SHOW": 1
+  },
+  {
+    "year_added": 2018,
+    "country": "ICELAND",
+    "MOVIE": 1,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2018,
+    "country": "INDIA",
+    "MOVIE": 333,
+    "TV SHOW": 20
+  },
+  {
+    "year_added": 2018,
+    "country": "INDONESIA",
+    "MOVIE": 26,
+    "TV SHOW": 1
+  },
+  {
+    "year_added": 2018,
+    "country": "IRAN",
+    "MOVIE": 2,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2018,
+    "country": "IRAQ",
+    "MOVIE": 1,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2018,
+    "country": "IRELAND",
+    "MOVIE": 9,
+    "TV SHOW": 3
+  },
+  {
+    "year_added": 2018,
+    "country": "ISRAEL",
+    "MOVIE": 3,
+    "TV SHOW": 4
+  },
+  {
+    "year_added": 2018,
+    "country": "ITALY",
+    "MOVIE": 10,
+    "TV SHOW": 2
+  },
+  {
+    "year_added": 2018,
+    "country": "JAPAN",
+    "MOVIE": 11,
+    "TV SHOW": 38
+  },
+  {
+    "year_added": 2018,
+    "country": "JORDAN",
+    "MOVIE": 1,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2018,
+    "country": "KENYA",
+    "MOVIE": 1,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2018,
+    "country": "LUXEMBOURG",
+    "MOVIE": 3,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2018,
+    "country": "MEXICO",
+    "MOVIE": 18,
+    "TV SHOW": 7
+  },
+  {
+    "year_added": 2018,
+    "country": "MOROCCO",
+    "MOVIE": 4,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2018,
+    "country": "NAMIBIA",
+    "MOVIE": 1,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2018,
+    "country": "NETHERLANDS",
+    "MOVIE": 4,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2018,
+    "country": "NEW ZEALAND",
+    "MOVIE": 3,
+    "TV SHOW": 1
+  },
+  {
+    "year_added": 2018,
+    "country": "PERU",
+    "MOVIE": 2,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2018,
+    "country": "POLAND",
+    "MOVIE": 2,
+    "TV SHOW": 2
+  },
+  {
+    "year_added": 2018,
+    "country": "PORTUGAL",
+    "MOVIE": 1,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2018,
+    "country": "QATAR",
+    "MOVIE": 1,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2018,
+    "country": "SERBIA",
+    "MOVIE": 2,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2018,
+    "country": "SINGAPORE",
+    "MOVIE": 6,
+    "TV SHOW": 1
+  },
+  {
+    "year_added": 2018,
+    "country": "SLOVENIA",
+    "MOVIE": 1,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2018,
+    "country": "SOUTH AFRICA",
+    "MOVIE": 5,
+    "TV SHOW": 2
+  },
+  {
+    "year_added": 2018,
+    "country": "SOUTH KOREA",
+    "MOVIE": 13,
+    "TV SHOW": 17
+  },
+  {
+    "year_added": 2018,
+    "country": "SPAIN",
+    "MOVIE": 29,
+    "TV SHOW": 8
+  },
+  {
+    "year_added": 2018,
+    "country": "SUDAN",
+    "MOVIE": 1,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2018,
+    "country": "SWEDEN",
+    "MOVIE": 2,
+    "TV SHOW": 1
+  },
+  {
+    "year_added": 2018,
+    "country": "SWITZERLAND",
+    "MOVIE": 3,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2018,
+    "country": "TAIWAN",
+    "MOVIE": 1,
+    "TV SHOW": 7
+  },
+  {
+    "year_added": 2018,
+    "country": "TURKEY",
+    "MOVIE": 11,
+    "TV SHOW": 2
+  },
+  {
+    "year_added": 2018,
+    "country": "UGANDA",
+    "MOVIE": 1,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2018,
+    "country": "UNITED ARAB EMIRATES",
+    "MOVIE": 3,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2018,
+    "country": "UNITED KINGDOM",
+    "MOVIE": 75,
+    "TV SHOW": 51
+  },
+  {
+    "year_added": 2018,
+    "country": "UNITED STATES",
+    "MOVIE": 438,
+    "TV SHOW": 242
+  },
+  {
+    "year_added": 2018,
+    "country": "ZIMBABWE",
+    "MOVIE": 1,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2018,
+    "country": "CAMBODIA",
+    "MOVIE": 1,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2018,
+    "country": "CZECH REPUBLIC",
+    "MOVIE": 2,
+    "TV SHOW": 1
+  },
+  {
+    "year_added": 2018,
+    "country": "EGYPT",
+    "MOVIE": 1,
+    "TV SHOW": 1
+  },
+  {
+    "year_added": 2018,
+    "country": "GEORGIA",
+    "MOVIE": 1,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2018,
+    "country": "GUATEMALA",
+    "MOVIE": 1,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2018,
+    "country": "HUNGARY",
+    "MOVIE": 2,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2018,
+    "country": "MALAYSIA",
+    "MOVIE": 2,
+    "TV SHOW": 1
+  },
+  {
+    "year_added": 2018,
+    "country": "NIGERIA",
+    "MOVIE": 2,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2018,
+    "country": "NORWAY",
+    "MOVIE": 2,
+    "TV SHOW": 2
+  },
+  {
+    "year_added": 2018,
+    "country": "PAKISTAN",
+    "MOVIE": 5,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2018,
+    "country": "PHILIPPINES",
+    "MOVIE": 4,
+    "TV SHOW": 1
+  },
+  {
+    "year_added": 2018,
+    "country": "RUSSIA",
+    "MOVIE": 2,
+    "TV SHOW": 4
+  },
+  {
+    "year_added": 2018,
+    "country": "SOMALIA",
+    "MOVIE": 1,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2018,
+    "country": "SOVIET UNION",
+    "MOVIE": 1,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2018,
+    "country": "THAILAND",
+    "MOVIE": 28,
+    "TV SHOW": 7
+  },
+  {
+    "year_added": 2018,
+    "country": "URUGUAY",
+    "MOVIE": 2,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2018,
+    "country": "VENEZUELA",
+    "MOVIE": 1,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2018,
+    "country": "VIETNAM",
+    "MOVIE": 2,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2018,
+    "country": "KUWAIT",
+    "MOVIE": "",
+    "TV SHOW": 1
+  },
+  {
+    "year_added": 2018,
+    "country": "LEBANON",
+    "MOVIE": "",
+    "TV SHOW": 1
+  },
+  {
+    "year_added": 2018,
+    "country": "SYRIA",
+    "MOVIE": "",
+    "TV SHOW": 1
+  },
+  {
+    "year_added": 2018,
+    "country": "WEST GERMANY",
+    "MOVIE": "",
+    "TV SHOW": 1
+  },
+  {
+    "year_added": 2018,
+    "country": "SAUDI ARABIA",
+    "MOVIE": "",
+    "TV SHOW": 1
+  },
+  {
+    "year_added": 2018,
+    "country": "UKRAINE",
+    "MOVIE": "",
+    "TV SHOW": 1
+  },
+  {
+    "year_added": 2019,
+    "country": "",
+    "MOVIE": 1,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2019,
+    "country": "ARGENTINA",
+    "MOVIE": 8,
+    "TV SHOW": 10
+  },
+  {
+    "year_added": 2019,
+    "country": "AUSTRALIA",
+    "MOVIE": 8,
+    "TV SHOW": 17
+  },
+  {
+    "year_added": 2019,
+    "country": "AUSTRIA",
+    "MOVIE": 3,
+    "TV SHOW": 1
+  },
+  {
+    "year_added": 2019,
+    "country": "BELGIUM",
+    "MOVIE": 2,
+    "TV SHOW": 3
+  },
+  {
+    "year_added": 2019,
+    "country": "BRAZIL",
+    "MOVIE": 10,
+    "TV SHOW": 10
+  },
+  {
+    "year_added": 2019,
+    "country": "BULGARIA",
+    "MOVIE": 1,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2019,
+    "country": "CAMBODIA",
+    "MOVIE": 1,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2019,
+    "country": "CANADA",
+    "MOVIE": 40,
+    "TV SHOW": 26
+  },
+  {
+    "year_added": 2019,
+    "country": "CHILE",
+    "MOVIE": 2,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2019,
+    "country": "CHINA",
+    "MOVIE": 10,
+    "TV SHOW": 14
+  },
+  {
+    "year_added": 2019,
+    "country": "CZECH REPUBLIC",
+    "MOVIE": 4,
+    "TV SHOW": 2
+  },
+  {
+    "year_added": 2019,
+    "country": "DENMARK",
+    "MOVIE": 7,
+    "TV SHOW": 5
+  },
+  {
+    "year_added": 2019,
+    "country": "FINLAND",
+    "MOVIE": 1,
+    "TV SHOW": 2
+  },
+  {
+    "year_added": 2019,
+    "country": "FRANCE",
+    "MOVIE": 31,
+    "TV SHOW": 23
+  },
+  {
+    "year_added": 2019,
+    "country": "GERMANY",
+    "MOVIE": 17,
+    "TV SHOW": 4
+  },
+  {
+    "year_added": 2019,
+    "country": "HONG KONG",
+    "MOVIE": 17,
+    "TV SHOW": 1
+  },
+  {
+    "year_added": 2019,
+    "country": "HUNGARY",
+    "MOVIE": 1,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2019,
+    "country": "INDIA",
+    "MOVIE": 223,
+    "TV SHOW": 20
+  },
+  {
+    "year_added": 2019,
+    "country": "IRAQ",
+    "MOVIE": 1,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2019,
+    "country": "IRELAND",
+    "MOVIE": 1,
+    "TV SHOW": 2
+  },
+  {
+    "year_added": 2019,
+    "country": "ITALY",
+    "MOVIE": 9,
+    "TV SHOW": 5
+  },
+  {
+    "year_added": 2019,
+    "country": "JAPAN",
+    "MOVIE": 16,
+    "TV SHOW": 53
+  },
+  {
+    "year_added": 2019,
+    "country": "LIECHTENSTEIN",
+    "MOVIE": 1,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2019,
+    "country": "LUXEMBOURG",
+    "MOVIE": 4,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2019,
+    "country": "MALAWI",
+    "MOVIE": 1,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2019,
+    "country": "MALAYSIA",
+    "MOVIE": 5,
+    "TV SHOW": 3
+  },
+  {
+    "year_added": 2019,
+    "country": "MALTA",
+    "MOVIE": 1,
+    "TV SHOW": 1
+  },
+  {
+    "year_added": 2019,
+    "country": "MEXICO",
+    "MOVIE": 14,
+    "TV SHOW": 17
+  },
+  {
+    "year_added": 2019,
+    "country": "MOROCCO",
+    "MOVIE": 1,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2019,
+    "country": "NEPAL",
+    "MOVIE": 1,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2019,
+    "country": "NETHERLANDS",
+    "MOVIE": 4,
+    "TV SHOW": 2
+  },
+  {
+    "year_added": 2019,
+    "country": "NEW ZEALAND",
+    "MOVIE": 2,
+    "TV SHOW": 1
+  },
+  {
+    "year_added": 2019,
+    "country": "NORWAY",
+    "MOVIE": 2,
+    "TV SHOW": 2
+  },
+  {
+    "year_added": 2019,
+    "country": "PAKISTAN",
+    "MOVIE": 6,
+    "TV SHOW": 1
+  },
+  {
+    "year_added": 2019,
+    "country": "PERU",
+    "MOVIE": 1,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2019,
+    "country": "POLAND",
+    "MOVIE": 9,
+    "TV SHOW": 2
+  },
+  {
+    "year_added": 2019,
+    "country": "PORTUGAL",
+    "MOVIE": 1,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2019,
+    "country": "RUSSIA",
+    "MOVIE": 1,
+    "TV SHOW": 2
+  },
+  {
+    "year_added": 2019,
+    "country": "SENEGAL",
+    "MOVIE": 1,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2019,
+    "country": "SERBIA",
+    "MOVIE": 1,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2019,
+    "country": "SINGAPORE",
+    "MOVIE": 2,
+    "TV SHOW": 1
+  },
+  {
+    "year_added": 2019,
+    "country": "SOUTH AFRICA",
+    "MOVIE": 5,
+    "TV SHOW": 2
+  },
+  {
+    "year_added": 2019,
+    "country": "SOUTH KOREA",
+    "MOVIE": 12,
+    "TV SHOW": 50
+  },
+  {
+    "year_added": 2019,
+    "country": "SPAIN",
+    "MOVIE": 30,
+    "TV SHOW": 23
+  },
+  {
+    "year_added": 2019,
+    "country": "SWEDEN",
+    "MOVIE": 2,
+    "TV SHOW": 2
+  },
+  {
+    "year_added": 2019,
+    "country": "SWITZERLAND",
+    "MOVIE": 2,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2019,
+    "country": "TAIWAN",
+    "MOVIE": 5,
+    "TV SHOW": 18
+  },
+  {
+    "year_added": 2019,
+    "country": "THAILAND",
+    "MOVIE": 7,
+    "TV SHOW": 9
+  },
+  {
+    "year_added": 2019,
+    "country": "TURKEY",
+    "MOVIE": 15,
+    "TV SHOW": 7
+  },
+  {
+    "year_added": 2019,
+    "country": "UNITED ARAB EMIRATES",
+    "MOVIE": 3,
+    "TV SHOW": 1
+  },
+  {
+    "year_added": 2019,
+    "country": "UNITED KINGDOM",
+    "MOVIE": 95,
+    "TV SHOW": 70
+  },
+  {
+    "year_added": 2019,
+    "country": "UNITED STATES",
+    "MOVIE": 766,
+    "TV SHOW": 373
+  },
+  {
+    "year_added": 2019,
+    "country": "URUGUAY",
+    "MOVIE": 1,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2019,
+    "country": "VATICAN CITY",
+    "MOVIE": 1,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2019,
+    "country": "WEST GERMANY",
+    "MOVIE": 1,
+    "TV SHOW": 1
+  },
+  {
+    "year_added": 2019,
+    "country": "BANGLADESH",
+    "MOVIE": 2,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2019,
+    "country": "COLOMBIA",
+    "MOVIE": 3,
+    "TV SHOW": 7
+  },
+  {
+    "year_added": 2019,
+    "country": "DOMINICAN REPUBLIC",
+    "MOVIE": 1,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2019,
+    "country": "EGYPT",
+    "MOVIE": 43,
+    "TV SHOW": 7
+  },
+  {
+    "year_added": 2019,
+    "country": "GHANA",
+    "MOVIE": 2,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2019,
+    "country": "ICELAND",
+    "MOVIE": 1,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2019,
+    "country": "INDONESIA",
+    "MOVIE": 18,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2019,
+    "country": "IRAN",
+    "MOVIE": 1,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2019,
+    "country": "ISRAEL",
+    "MOVIE": 4,
+    "TV SHOW": 2
+  },
+  {
+    "year_added": 2019,
+    "country": "NIGERIA",
+    "MOVIE": 31,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2019,
+    "country": "PARAGUAY",
+    "MOVIE": 1,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2019,
+    "country": "PHILIPPINES",
+    "MOVIE": 41,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2019,
+    "country": "ROMANIA",
+    "MOVIE": 5,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2019,
+    "country": "VIETNAM",
+    "MOVIE": 1,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2019,
+    "country": "JORDAN",
+    "MOVIE": "",
+    "TV SHOW": 1
+  },
+  {
+    "year_added": 2019,
+    "country": "CROATIA",
+    "MOVIE": "",
+    "TV SHOW": 1
+  },
+  {
+    "year_added": 2019,
+    "country": "CYPRUS",
+    "MOVIE": "",
+    "TV SHOW": 1
+  },
+  {
+    "year_added": 2019,
+    "country": "LEBANON",
+    "MOVIE": "",
+    "TV SHOW": 5
+  },
+  {
+    "year_added": 2019,
+    "country": "MAURITIUS",
+    "MOVIE": "",
+    "TV SHOW": 1
+  },
+  {
+    "year_added": 2020,
+    "country": "AUSTRALIA",
+    "MOVIE": 1,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2020,
+    "country": "CANADA",
+    "MOVIE": 1,
+    "TV SHOW": 3
+  },
+  {
+    "year_added": 2020,
+    "country": "EAST GERMANY",
+    "MOVIE": 1,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2020,
+    "country": "FRANCE",
+    "MOVIE": 7,
+    "TV SHOW": 1
+  },
+  {
+    "year_added": 2020,
+    "country": "GERMANY",
+    "MOVIE": 3,
+    "TV SHOW": 1
+  },
+  {
+    "year_added": 2020,
+    "country": "HONG KONG",
+    "MOVIE": 1,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2020,
+    "country": "INDIA",
+    "MOVIE": 6,
+    "TV SHOW": 1
+  },
+  {
+    "year_added": 2020,
+    "country": "ITALY",
+    "MOVIE": 2,
+    "TV SHOW": 1
+  },
+  {
+    "year_added": 2020,
+    "country": "JAPAN",
+    "MOVIE": 1,
+    "TV SHOW": 4
+  },
+  {
+    "year_added": 2020,
+    "country": "MALAYSIA",
+    "MOVIE": 1,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2020,
+    "country": "MEXICO",
+    "MOVIE": 3,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2020,
+    "country": "SINGAPORE",
+    "MOVIE": 1,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2020,
+    "country": "SOUTH KOREA",
+    "MOVIE": 1,
+    "TV SHOW": 1
+  },
+  {
+    "year_added": 2020,
+    "country": "SPAIN",
+    "MOVIE": 2,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2020,
+    "country": "TAIWAN",
+    "MOVIE": 1,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2020,
+    "country": "UNITED KINGDOM",
+    "MOVIE": 12,
+    "TV SHOW": 2
+  },
+  {
+    "year_added": 2020,
+    "country": "UNITED STATES",
+    "MOVIE": 109,
+    "TV SHOW": 21
+  },
+  {
+    "year_added": 2020,
+    "country": "WEST GERMANY",
+    "MOVIE": 1,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2020,
+    "country": "AUSTRIA",
+    "MOVIE": 1,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2020,
+    "country": "BRAZIL",
+    "MOVIE": 1,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2020,
+    "country": "INDONESIA",
+    "MOVIE": 2,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2020,
+    "country": "NEW ZEALAND",
+    "MOVIE": 2,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2020,
+    "country": "POLAND",
+    "MOVIE": 1,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2020,
+    "country": "SOUTH AFRICA",
+    "MOVIE": 1,
+    "TV SHOW": ""
+  },
+  {
+    "year_added": 2020,
+    "country": "BELGIUM",
+    "MOVIE": "",
+    "TV SHOW": 1
+  },
+  {
+    "year_added": 2020,
+    "country": "CHINA",
+    "MOVIE": "",
+    "TV SHOW": 1
+  },
+  {
+    "year_added": 2020,
+    "country": "NETHERLANDS",
+    "MOVIE": "",
+    "TV SHOW": 1
+  },
+  {
+    "year_added": 2020,
+    "country": "RUSSIA",
+    "MOVIE": "",
+    "TV SHOW": 1
+  }
+]
