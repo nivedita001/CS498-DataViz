@@ -1,0 +1,236 @@
+
+
+<!DOCTYPE html>
+<head>
+<meta charset="utf-8">
+<title>Multi Line Chart</title>
+<script type="text/javascript" src="https://d3js.org/d3.v5.min.js"></script>
+<style>
+    /* AXES */
+    /* ticks */
+    .axis line{
+    stroke: #706f6f;
+    stroke-width: 0.5;
+    shape-rendering: crispEdges;
+    }
+    
+    /* axis contour */
+    .axis path {
+    stroke: #706f6f;
+    stroke-width: 0.7;
+    shape-rendering: crispEdges;
+    }
+    
+    /* axis text */
+    .axis text {
+    fill: #2b2929;
+    font-family: Georgia;
+    font-size: 120%;
+    }
+    
+    /* LINE CHART */
+    path.line-0 {
+    fill: none;
+    stroke: #ed3700;
+    }
+    
+    path.line-1 {
+    fill: none;
+    stroke: #2b2929;
+    stroke-dasharray: 2;
+    }
+    
+    path.line-2 {
+    fill: none;
+    stroke: #9c9c9c;
+    stroke-dasharray: 6;
+    }
+    
+    .line {
+    fill: none;
+    stroke: steelblue;
+    stroke-width: 2;
+}
+    
+    .dot {
+    fill: steelblue;
+    stroke: #fff;
+}</style>
+</head>
+<body>
+ <p style="text-align: center;"><span style="text-decoration: underline; color: red; font-size: 30px;"><strong>Netflix Content Analysis</strong></span></p>
+    
+<h3 style="text-align: left;">About Netflix</h3>
+<p>Netflix has been leading the way for digital content since 1997 Netflix is the world's leading streaming entertainment service with 193 million paid memberships in over 190 countries enjoying TV series, documentaries and feature films across a wide variety of genres and languages. Members can watch as much as they want, anytime, anywhere, on any internet-connected screen. Members can play, pause and resume watching, all without commercials or commitments.Below chart shows content growth over time and different milestones(Source-https://en.wikipedia.org/wiki/Timeline_of_Netflix)</p>
+<div id="nextpage" style="text-align: right;">
+    <a href="scondscene.html">
+        <button> Contect growth based on Type</button>
+    </a>
+    </div>
+    <div><h3 style="text-align: center; color: #ff0505f5;">Netflix Content Growth Over The Year </h3></div>   
+<div id="container" class="svg-container"></div>
+
+<script>
+//------------------------1. PREPARATION------------------------//
+//-----------------------------SVG------------------------------//
+var margin = {top: 10, right: 50, bottom: 100, left: 60};
+   // width = 460 - margin.left - margin.right,
+   // height = 400 - margin.top - margin.bottom;
+    var width=900;
+  var height=400;
+// we are appending SVG first
+
+var svg = d3.select("div#container").append("svg")
+      .attr("width", width + margin.left + margin.right)
+      .attr("height", height + margin.top + margin.bottom)
+      .append("g")
+      .attr("transform",
+            "translate(" + margin.left + "," + margin.top + ")");
+
+//-----------------------------DATA-----------------------------//
+const timeConv = d3.timeParse("%Y");
+const dataset = d3.csv("https://raw.githubusercontent.com/nivedita001/CS498-DataViz/master/Netflix_ratingbyyearcountry.csv");
+dataset.then(function(data) {
+
+    data.forEach(function(d) {
+        d.year_added = timeConv(d.year_added);
+        d.type = d['type'];
+        d.country = d['country'];
+        d.total_count = d['total_count'];
+        //console.log(d)
+      });
+
+
+    console.log(data)
+ 
+    var countbyyear = d3.nest()
+  .key(function(d) { return (d.year_added); })
+  .rollup(function(v) { return d3.sum(v, function(d) { return d.total_count; }); })
+  .entries(data);
+  countbyyear.forEach(function(d) {
+        d.key = d3.timeFormat("%Y")(new Date(d.key));
+        d.value = d['value'];
+        //console.log(d)
+      });
+
+
+console.log(countbyyear)
+
+//----------------------------SCALES----------------------------//
+const xScale = d3.scaleTime().range([0,width]);
+const yScale = d3.scaleLinear().rangeRound([height, 0]);
+xScale.domain(d3.extent(countbyyear, function(d){
+    return d3.timeParse("%Y")(d.key)}));
+
+yScale.domain([(0), d3.max(countbyyear, function(d){
+    return (d.value)})]);
+
+
+
+//-----------------------------AXES-----------------------------//
+const yaxis = d3.axisLeft()
+    .scale(yScale);
+
+
+const xaxis = d3.axisBottom()
+    .tickFormat(d3.timeFormat('%Y'))
+    .scale(xScale);
+
+
+//----------------------------LINES-----------------------------//
+var valueline = d3.line()
+    .x(function(d) { return xScale(new Date(d.key)); })
+    .y(function(d) { return  yScale((d.value)); });
+
+ svg.append("path")
+ .datum(countbyyear)
+      .attr("class", "line")
+      .attr("d", valueline);
+
+        svg.selectAll(".dot")
+      .data(countbyyear)
+  .enter().append("circle") // Uses the enter().append() method
+    .attr("class", "dot") // Assign a class for styling
+    .attr("cx", function(d) {  return xScale(new Date(d.key));})
+    .attr("cy", function(d) { return yScale(d.value);})
+    .attr("r", 4);
+//-----------------------------AXES-----------------------------//
+
+svg.append("g")
+    .attr("class", "axis")
+    .attr("transform", "translate(0," + height + ")")
+    .call(xaxis)
+    .append("text")
+    .attr("x", 265 )
+    .attr("dx","10em")
+    .attr("dy","3.5em")
+    .style("text-anchor", "start")
+    .text("Year_added");
+
+svg.append("g")
+    .attr("class", "axis")
+    .call(yaxis)
+    .append("text")
+    .attr("transform", "rotate(-90)")
+    .attr("x","-260")
+    .attr("dx","10em")
+    .attr("dy","-3.5em")
+    .style("text-anchor", "end")
+    .text("Count");
+
+    
+
+
+//---Annotation-----//
+
+//annotation 
+    svg.append("g").append('line').attr("class","ant1").style("stroke", "black")
+    .attr("x1", 150).attr("y1", 400).attr("x2", 150).attr("y2",300);
+    svg.append("g").append("text").attr("class","ant1").attr("x", 100).attr("y", 50).attr("dy","17em").text("Netflix starts expanding ")
+    .style("font-size", "12px").style("font-weight", "normal");
+    svg.append("g").append("text").attr("class","ant1").attr("x", 100).attr("y", 50).attr("dy","18em").text("its streaming service")
+    .style("font-size", "12px").style("font-weight", "normal");
+    svg.append("g").append("text").attr("class","ant1").attr("x", 100).attr("y", 50).attr("dy","19em").text("to the international market-")
+    .style("font-size", "12px").style("font-weight", "normal");
+    svg.append("g").append("text").attr("class","ant1").attr("x", 100).attr("y", 50).attr("dy","20em").text("starting with Canada.")
+    .style("font-size", "12px").style("font-weight", "normal");
+    svg.append("g").selectAll(".ant1").attr("transform", "translate(180,350)");
+
+    svg.append("g").append('line').attr("class","ant2").style("stroke", "black")
+    .attr("x1", 375).attr("y1", 400).attr("x2", 375).attr("y2",250);
+    svg.append("g").append("text").attr("class","ant2").attr("x", 300).attr("y", 50).attr("dy","15em").text("Netflix starts streaming ")
+    .style("font-size", "12px").style("font-weight", "normal");
+    svg.append("g").append("text").attr("class","ant2").attr("x", 300).attr("y", 50).attr("dy","16em").text("House of Cards, ")
+    .style("font-size", "12px").style("font-weight", "bold");
+    svg.append("g").append("text").attr("class","ant2").attr("x", 300).attr("y", 50).attr("dy","17em").text("its first original content.")
+    .style("font-size", "12px").style("font-weight", "normal");
+    svg.append("g").selectAll(".ant2").attr("transform", "translate(180,350)");
+
+    svg.append("g").append('line').attr("class","ant3").style("stroke", "black")
+    .attr("x1", 600).attr("y1", 400).attr("x2", 600).attr("y2",200);
+    svg.append("g").append("text").attr("class","ant3").attr("x", 550).attr("y", 150).attr("dy","2em").text("Netflix announces   ")
+    .style("font-size", "12px").style("font-weight", "normal");
+    svg.append("g").append("text").attr("class","ant3").attr("x", 550).attr("y", 150).attr("dy","3em").text("that it will launch ")
+    .style("font-size", "12px").style("font-weight", "normal");
+    svg.append("g").append("text").attr("class","ant3").attr("x", 550).attr("y", 150).attr("dy","4em").text("originals targeting kids")
+    .style("font-size", "12px").style("font-weight", "normal");
+    svg.append("g").selectAll(".ant3").attr("transform", "translate(180,350)");
+
+    svg.append("g").append('line').attr("class","ant4").style("stroke", "black")
+    .attr("x1", 675).attr("y1", 400).attr("x2", 675).attr("y2",130);
+    svg.append("g").append("text").attr("class","ant4").attr("x", 650).attr("y", 150).attr("dy","-5em").text("A study showed that ")
+    .style("font-size", "12px").style("font-weight", "normal");
+    svg.append("g").append("text").attr("class","ant4").attr("x", 650).attr("y", 150).attr("dy","-4em").text("the number of Netflix subscribers")
+    .style("font-size", "12px").style("font-weight", "normal");
+    svg.append("g").append("text").attr("class","ant4").attr("x", 650).attr("y", 150).attr("dy","-3em").text("now equal that of")
+    .style("font-size", "12px").style("font-weight", "normal");
+    svg.append("g").append("text").attr("class","ant4").attr("x", 650).attr("y", 150).attr("dy","-2em").text("all the cable subscribers combined; ")
+    .style("font-size", "12px").style("font-weight", "normal");
+    svg.append("g").selectAll(".ant4").attr("transform", "translate(180,350)");
+
+});
+</script>
+</body>
+
+
+

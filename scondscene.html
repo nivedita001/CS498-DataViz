@@ -1,0 +1,246 @@
+
+
+<!DOCTYPE html>
+<head>
+<meta charset="utf-8">
+<title>Multi Line Chart</title>
+<script type="text/javascript" src="https://d3js.org/d3.v5.min.js"></script>
+<style>
+    /* AXES */
+    /* ticks */
+    .axis line{
+    stroke: #706f6f;
+    stroke-width: 0.5;
+    shape-rendering: crispEdges;
+    }
+    
+    /* axis contour */
+    .axis path {
+    stroke: #706f6f;
+    stroke-width: 0.7;
+    shape-rendering: crispEdges;
+    }
+    
+    /* axis text */
+    .axis text {
+    fill: #2b2929;
+    font-family: Georgia;
+    font-size: 120%;
+    }
+    
+    /* LINE CHART */
+    path.line-0 {
+    fill: none;
+    stroke: #ed3700;
+    }
+    
+    .dot-0 {
+    fill: #fa0101;
+    stroke: #fff;
+}
+    
+    .line {
+    fill: none;
+    stroke: #0884e9;
+    stroke-width: 2;
+}
+    
+    .dot {
+    fill: steelblue;
+    stroke: #fff;
+}</style>
+</head>
+<body>
+ <p style="text-align: center;"><span style="text-decoration: underline; color: red; font-size: 30px;"><strong>Netflix Content Analysis</strong></span></p>
+    
+<h3 style="text-align: left;">Content Growth by type</h3>
+<p>Netflix has mainly two types of content.</p>
+<p>1.Movies
+   2.TV Show
+</p>
+<p>In the below section we can see the growth of two types of content over the years</p>
+<div id="nextpage" style="text-align: right;">
+    <a href="firstscene.html">
+        <button > Contect growth for different countires</button>
+    </a>
+    <a href="thirdscene.html">
+        <button > Contect growth for different countires</button>
+    </a>
+    </div>
+<div><h3 style="text-align: center; color: #ff0505f5;">Netflix Content Growth Over The Year By Type </h3></div>
+<div id="container" class="svg-container"></div>
+<script>
+var movie= null;
+var tvshow = null;
+var movieyear = null;
+var tvyear = null;
+function buildtypeyearlist(data) {
+    //console.log(movie);
+    movie = {};
+    tvshow = {};
+    console.log(movie);
+    data.forEach((d) => {
+        if(d['type'] == 'MOVIE') {
+            if (d['year_added'] in movie){
+            //console.log(d['total_count']);
+            movie[d['year_added']] += d['total_count'];}
+            else{
+            movie[d['year_added']] = d['total_count'];
+            }
+        } else {
+            if (d['year_added'] in tvshow){
+            //console.log(d['total_count']);
+            tvshow[d['year_added']] += d['total_count'];}
+            else{
+            tvshow[d['year_added']] = d['total_count'];
+            }
+            
+        }
+    });
+   //console.log(movie);
+    movieyear = [];
+    Object.keys(movie).forEach((year) => {
+        // Compute the average to 2 decimal places
+        movieyear.push({'year_added': year, 'total_count': movie[year]});
+       
+    });
+    tvyear =[]
+    Object.keys(tvshow).forEach((year) => {
+        tvyear.push({'year_added': year, 'total_count': tvshow[year]});
+    });
+     
+
+}
+//------------------------1. PREPARATION------------------------//
+//-----------------------------SVG------------------------------//
+var margin = {top: 0, right: 50, bottom: 100, left: 60};
+   // width = 460 - margin.left - margin.right,
+   // height = 400 - margin.top - margin.bottom;
+    var width=900;
+  var height=400;
+// we are appending SVG first
+
+var svg = d3.select("div#container").append("svg")
+      .attr("width", width + margin.left + margin.right)
+      .attr("height", height + margin.top + margin.bottom)
+      .append("g")
+      .attr("transform",
+            "translate(" + margin.left + "," + margin.top + ")");
+
+//-----------------------------DATA-----------------------------//
+const timeConv = d3.timeParse("%Y");
+d3.json("https://raw.githubusercontent.com/nivedita001/CS498-DataViz/master/Netflix_count.json").then((data) => {
+
+    data.forEach(function(d) {
+        d.year_added = d.year_added;
+        d.type = d['type'];
+        d.country = d['country'];
+        d.total_count = d['total_count'];
+        //console.log(d)
+      });
+
+    buildtypeyearlist(data);
+ 
+
+
+console.log(movieyear)
+
+//----------------------------SCALES----------------------------//
+const xScale = d3.scaleTime().range([0,width]);
+const yScale = d3.scaleLinear().rangeRound([height, 0]);
+console.log(d3.extent(movieyear, function(d){
+    return (d3.timeFormat("%Y")(d.year_added))}));
+xScale.domain(d3.extent(movieyear, function(d){
+    return d3.timeParse("%Y")(d.year_added)}));
+
+yScale.domain([(0), d3.max(movieyear, function(d){
+    return (d.total_count)})]);
+
+
+
+//-----------------------------AXES-----------------------------//
+const yaxis = d3.axisLeft()
+    .scale(yScale);
+
+
+const xaxis = d3.axisBottom()
+    .tickFormat(d3.timeFormat('%Y'))
+    .scale(xScale);
+
+
+//----------------------------LINES-----------------------------//
+var valueline = d3.line()
+    .x(function(d) { return xScale(new Date(d.year_added)); })
+    .y(function(d) { return  yScale((d.total_count)); });
+
+ svg.append("path")
+ .datum(movieyear)
+      .attr("class", "line")
+      .attr("d", valueline);
+
+        svg.selectAll(".dot")
+      .data(movieyear)
+  .enter().append("circle") // Uses the enter().append() method
+    .attr("class", "dot") // Assign a class for styling
+    .attr("cx", function(d) {  return xScale(new Date(d.year_added));})
+    .attr("cy", function(d) { return yScale(d.total_count);})
+    .attr("r", 4);
+//-----------------------------AXES-----------------------------//
+
+svg.append("g")
+    .attr("class", "axis")
+    .attr("transform", "translate(0," + height + ")")
+    .call(xaxis)
+    .append("text")
+    .attr("x", 265 )
+    .attr("dx","10em")
+    .attr("dy","3.5em")
+    .style("text-anchor", "start")
+    .text("Year_added");
+
+svg.append("g")
+    .attr("class", "axis")
+    .call(yaxis)
+    .append("text")
+    .attr("transform", "rotate(-90)")
+    .attr("x","-260")
+    .attr("dx","10em")
+    .attr("dy","-3.5em")
+    .style("text-anchor", "end")
+    .text("Count");
+
+//-----TVSHOW----//
+//----------------------------LINES-----------------------------//
+var valueline = d3.line()
+    .x(function(d) { return xScale(new Date(d.year_added)); })
+    .y(function(d) { return  yScale((d.total_count)); });
+
+ svg.append("path")
+ .datum(tvyear)
+      .attr("class", "line-0")
+      .attr("d", valueline);
+
+        svg.selectAll(".dot-0")
+      .data(tvyear)
+  .enter().append("circle") // Uses the enter().append() method
+    .attr("class", "dot-0") // Assign a class for styling
+    .attr("cx", function(d) {  return xScale(new Date(d.year_added));})
+    .attr("cy", function(d) { return yScale(d.total_count);})
+    .attr("r", 4);
+//--Legend--//
+svg.append("circle").attr("cx",10).attr("cy",10).attr("r", 6).style("fill", "#0884e9")
+svg.append("circle").attr("cx",10).attr("cy",30).attr("r", 6).style("fill", "#ed3700")
+svg.append("text").attr("x", 30).attr("y", 10).text("Movies").style("font-size", "15px").attr("alignment-baseline","middle")
+svg.append("text").attr("x", 30).attr("y", 30).text("TV Shows").style("font-size", "15px").attr("alignment-baseline","middle")
+
+
+
+})
+    .catch((error) => {
+        console.error(error);
+    });
+</script>
+</body>
+
+
+
