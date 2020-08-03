@@ -1,0 +1,522 @@
+year_added,country,total_count
+2008.0,United States,2
+2009.0,Denmark,1
+2009.0,United States,1
+2010.0,United States,1
+2011.0, France,1
+2011.0, Mexico,1
+2011.0,Spain,1
+2011.0,United States,12
+2012.0, Mexico,1
+2012.0,United States,7
+2013.0, Ireland,1
+2013.0, United Kingdom,1
+2013.0,Canada,1
+2013.0,United States,11
+2014.0,,1
+2014.0, Bermuda,1
+2014.0, Canada,2
+2014.0, Ecuador,1
+2014.0, Egypt,1
+2014.0, Hungary,1
+2014.0, Ireland,1
+2014.0, United States,4
+2014.0,Canada,2
+2014.0,Norway,1
+2014.0,United Kingdom,3
+2014.0,United States,19
+2015.0, Australia,2
+2015.0, Belgium,2
+2015.0, Canada,1
+2015.0, France,4
+2015.0, Germany,1
+2015.0, Greece,1
+2015.0, Ireland,2
+2015.0, Italy,3
+2015.0, New Zealand,1
+2015.0, Ukraine,1
+2015.0, United Kingdom,4
+2015.0, United States,4
+2015.0,Australia,3
+2015.0,Belgium,1
+2015.0,Canada,6
+2015.0,France,5
+2015.0,Germany,2
+2015.0,Italy,1
+2015.0,Japan,1
+2015.0,Mexico,1
+2015.0,New Zealand,1
+2015.0,Nigeria,1
+2015.0,Norway,1
+2015.0,United Kingdom,6
+2015.0,United States,61
+2016.0, Australia,2
+2016.0, Azerbaijan,1
+2016.0, Belgium,3
+2016.0, Canada,11
+2016.0, Chile,1
+2016.0, China,3
+2016.0, Cuba,1
+2016.0, Denmark,1
+2016.0, Finland,1
+2016.0, France,14
+2016.0, Germany,9
+2016.0, Greece,5
+2016.0, Hong Kong,1
+2016.0, Hungary,1
+2016.0, India,2
+2016.0, Indonesia,1
+2016.0, Israel,1
+2016.0, Japan,13
+2016.0, Jordan,1
+2016.0, Kazakhstan,1
+2016.0, Montenegro,1
+2016.0, Netherlands,4
+2016.0, New Zealand,3
+2016.0, Norway,2
+2016.0, Peru,1
+2016.0, Qatar,1
+2016.0, Russia,1
+2016.0, Serbia,1
+2016.0, Slovenia,1
+2016.0, South Africa,2
+2016.0, South Korea,2
+2016.0, Spain,5
+2016.0, United Kingdom,9
+2016.0, United States,22
+2016.0, Zimbabwe,1
+2016.0,Argentina,3
+2016.0,Australia,8
+2016.0,Austria,1
+2016.0,Belgium,1
+2016.0,Brazil,3
+2016.0,Canada,24
+2016.0,Chile,1
+2016.0,China,6
+2016.0,Colombia,2
+2016.0,Croatia,1
+2016.0,Denmark,6
+2016.0,France,17
+2016.0,Germany,5
+2016.0,Hong Kong,3
+2016.0,Iceland,1
+2016.0,India,13
+2016.0,Ireland,3
+2016.0,Israel,2
+2016.0,Italy,3
+2016.0,Japan,20
+2016.0,Mexico,9
+2016.0,Netherlands,4
+2016.0,Nigeria,1
+2016.0,Norway,3
+2016.0,Pakistan,4
+2016.0,Peru,2
+2016.0,Poland,1
+2016.0,Russia,1
+2016.0,South Korea,8
+2016.0,Spain,13
+2016.0,Sweden,1
+2016.0,Switzerland,1
+2016.0,Taiwan,29
+2016.0,Turkey,4
+2016.0,United Arab Emirates,1
+2016.0,United Kingdom,45
+2016.0,United States,206
+2017.0, Afghanistan,1
+2017.0, Argentina,6
+2017.0, Armenia,1
+2017.0, Australia,6
+2017.0, Austria,1
+2017.0, Belgium,18
+2017.0, Botswana,1
+2017.0, Brazil,2
+2017.0, Bulgaria,1
+2017.0, Canada,19
+2017.0, Chile,1
+2017.0, China,6
+2017.0, Colombia,2
+2017.0, Croatia,1
+2017.0, Czech Republic,2
+2017.0, Denmark,3
+2017.0, France,24
+2017.0, Germany,16
+2017.0, Greece,1
+2017.0, Hong Kong,6
+2017.0, Iceland,1
+2017.0, India,10
+2017.0, Iran,1
+2017.0, Ireland,3
+2017.0, Israel,2
+2017.0, Italy,6
+2017.0, Japan,7
+2017.0, Jordan,3
+2017.0, Latvia,1
+2017.0, Lebanon,1
+2017.0, Malaysia,1
+2017.0, Mexico,6
+2017.0, Mongolia,1
+2017.0, Morocco,1
+2017.0, Nepal,1
+2017.0, Netherlands,4
+2017.0, New Zealand,2
+2017.0, Nicaragua,1
+2017.0, Norway,1
+2017.0, Panama,1
+2017.0, Peru,1
+2017.0, Philippines,1
+2017.0, Poland,1
+2017.0, Qatar,4
+2017.0, Romania,1
+2017.0, Russia,2
+2017.0, Samoa,1
+2017.0, Senegal,1
+2017.0, Singapore,2
+2017.0, Slovakia,1
+2017.0, South Africa,4
+2017.0, South Korea,2
+2017.0, Soviet Union,2
+2017.0, Spain,11
+2017.0, Sri Lanka,1
+2017.0, Sweden,7
+2017.0, Switzerland,4
+2017.0, Thailand,1
+2017.0, United Arab Emirates,2
+2017.0, United Kingdom,17
+2017.0, United States,61
+2017.0, Uruguay,4
+2017.0, Venezuela,1
+2017.0,Argentina,11
+2017.0,Australia,24
+2017.0,Austria,1
+2017.0,Belgium,5
+2017.0,Brazil,15
+2017.0,Bulgaria,1
+2017.0,Cambodia,1
+2017.0,Canada,53
+2017.0,Chile,8
+2017.0,China,19
+2017.0,Colombia,4
+2017.0,Czech Republic,2
+2017.0,Denmark,2
+2017.0,Finland,1
+2017.0,France,34
+2017.0,Georgia,1
+2017.0,Germany,17
+2017.0,Hong Kong,2
+2017.0,Iceland,1
+2017.0,India,192
+2017.0,Indonesia,2
+2017.0,Ireland,4
+2017.0,Israel,5
+2017.0,Italy,12
+2017.0,Japan,39
+2017.0,Lebanon,1
+2017.0,Malaysia,7
+2017.0,Mexico,30
+2017.0,Netherlands,4
+2017.0,New Zealand,2
+2017.0,Nigeria,1
+2017.0,Norway,5
+2017.0,Pakistan,5
+2017.0,Portugal,1
+2017.0,Russia,6
+2017.0,Saudi Arabia,1
+2017.0,Singapore,9
+2017.0,Slovenia,1
+2017.0,South Africa,1
+2017.0,South Korea,44
+2017.0,Spain,33
+2017.0,Sweden,4
+2017.0,Switzerland,1
+2017.0,Taiwan,11
+2017.0,Thailand,2
+2017.0,Turkey,44
+2017.0,Ukraine,1
+2017.0,United Arab Emirates,2
+2017.0,United Kingdom,123
+2017.0,United States,501
+2017.0,Uruguay,1
+2017.0,Venezuela,1
+2017.0,Vietnam,1
+2017.0,West Germany,1
+2018.0,,1
+2018.0, Albania,1
+2018.0, Argentina,3
+2018.0, Australia,8
+2018.0, Austria,1
+2018.0, Bangladesh,1
+2018.0, Belgium,12
+2018.0, Brazil,4
+2018.0, Bulgaria,1
+2018.0, Canada,35
+2018.0, Cayman Islands,1
+2018.0, Chile,2
+2018.0, China,15
+2018.0, Colombia,3
+2018.0, Croatia,1
+2018.0, Czech Republic,2
+2018.0, Denmark,4
+2018.0, Dominican Republic,1
+2018.0, Egypt,1
+2018.0, Finland,1
+2018.0, France,33
+2018.0, Germany,19
+2018.0, Greece,1
+2018.0, Hong Kong,7
+2018.0, Iceland,1
+2018.0, India,10
+2018.0, Indonesia,3
+2018.0, Iran,2
+2018.0, Iraq,1
+2018.0, Ireland,2
+2018.0, Israel,3
+2018.0, Italy,6
+2018.0, Japan,7
+2018.0, Jordan,1
+2018.0, Kenya,1
+2018.0, Kuwait,1
+2018.0, Lebanon,1
+2018.0, Luxembourg,3
+2018.0, Mexico,9
+2018.0, Morocco,4
+2018.0, Namibia,1
+2018.0, Netherlands,6
+2018.0, New Zealand,3
+2018.0, Peru,1
+2018.0, Poland,5
+2018.0, Portugal,1
+2018.0, Qatar,1
+2018.0, Russia,1
+2018.0, Serbia,1
+2018.0, Singapore,1
+2018.0, Slovenia,1
+2018.0, South Africa,8
+2018.0, South Korea,5
+2018.0, Spain,9
+2018.0, Sudan,1
+2018.0, Sweden,7
+2018.0, Switzerland,2
+2018.0, Syria,1
+2018.0, Taiwan,1
+2018.0, Turkey,1
+2018.0, Uganda,1
+2018.0, United Arab Emirates,4
+2018.0, United Kingdom,32
+2018.0, United States,101
+2018.0, West Germany,1
+2018.0, Zimbabwe,1
+2018.0,Argentina,24
+2018.0,Australia,32
+2018.0,Belgium,2
+2018.0,Brazil,18
+2018.0,Bulgaria,3
+2018.0,Cambodia,1
+2018.0,Canada,50
+2018.0,Chile,7
+2018.0,China,27
+2018.0,Colombia,13
+2018.0,Czech Republic,3
+2018.0,Denmark,7
+2018.0,Egypt,2
+2018.0,Finland,1
+2018.0,France,36
+2018.0,Georgia,1
+2018.0,Germany,17
+2018.0,Guatemala,1
+2018.0,Hong Kong,50
+2018.0,Hungary,2
+2018.0,Iceland,1
+2018.0,India,353
+2018.0,Indonesia,26
+2018.0,Ireland,12
+2018.0,Israel,7
+2018.0,Italy,10
+2018.0,Japan,49
+2018.0,Lebanon,1
+2018.0,Malaysia,3
+2018.0,Mexico,25
+2018.0,Netherlands,4
+2018.0,New Zealand,4
+2018.0,Nigeria,2
+2018.0,Norway,4
+2018.0,Pakistan,5
+2018.0,Peru,2
+2018.0,Philippines,5
+2018.0,Poland,4
+2018.0,Portugal,1
+2018.0,Russia,6
+2018.0,Saudi Arabia,1
+2018.0,Serbia,2
+2018.0,Singapore,7
+2018.0,Somalia,1
+2018.0,South Africa,5
+2018.0,South Korea,30
+2018.0,Soviet Union,1
+2018.0,Spain,37
+2018.0,Sweden,3
+2018.0,Switzerland,3
+2018.0,Taiwan,8
+2018.0,Thailand,35
+2018.0,Turkey,13
+2018.0,Ukraine,1
+2018.0,United Arab Emirates,3
+2018.0,United Kingdom,126
+2018.0,United States,680
+2018.0,Uruguay,2
+2018.0,Venezuela,1
+2018.0,Vietnam,2
+2019.0,,1
+2019.0, Argentina,3
+2019.0, Australia,12
+2019.0, Austria,2
+2019.0, Belgium,16
+2019.0, Brazil,3
+2019.0, Bulgaria,1
+2019.0, Cambodia,1
+2019.0, Canada,34
+2019.0, Chile,1
+2019.0, China,19
+2019.0, Colombia,2
+2019.0, Czech Republic,6
+2019.0, Denmark,2
+2019.0, Finland,2
+2019.0, France,41
+2019.0, Germany,30
+2019.0, Hong Kong,9
+2019.0, Hungary,1
+2019.0, India,6
+2019.0, Iraq,1
+2019.0, Ireland,2
+2019.0, Italy,9
+2019.0, Japan,16
+2019.0, Jordan,1
+2019.0, Liechtenstein,1
+2019.0, Luxembourg,4
+2019.0, Malawi,1
+2019.0, Malaysia,1
+2019.0, Malta,2
+2019.0, Mexico,11
+2019.0, Morocco,1
+2019.0, Nepal,1
+2019.0, Netherlands,4
+2019.0, New Zealand,2
+2019.0, Norway,2
+2019.0, Pakistan,2
+2019.0, Peru,1
+2019.0, Poland,4
+2019.0, Portugal,1
+2019.0, Russia,1
+2019.0, Senegal,1
+2019.0, Serbia,1
+2019.0, Singapore,7
+2019.0, South Africa,4
+2019.0, South Korea,5
+2019.0, Spain,13
+2019.0, Sweden,7
+2019.0, Switzerland,2
+2019.0, Taiwan,2
+2019.0, Thailand,2
+2019.0, Turkey,3
+2019.0, United Arab Emirates,5
+2019.0, United Kingdom,44
+2019.0, United States,101
+2019.0, Uruguay,1
+2019.0, Vatican City,1
+2019.0, West Germany,2
+2019.0,Argentina,18
+2019.0,Australia,25
+2019.0,Austria,3
+2019.0,Bangladesh,2
+2019.0,Belgium,5
+2019.0,Brazil,20
+2019.0,Bulgaria,1
+2019.0,Canada,66
+2019.0,Chile,2
+2019.0,China,24
+2019.0,Colombia,10
+2019.0,Croatia,1
+2019.0,Cyprus,1
+2019.0,Denmark,12
+2019.0,Dominican Republic,1
+2019.0,Egypt,50
+2019.0,Finland,3
+2019.0,France,54
+2019.0,Germany,21
+2019.0,Ghana,2
+2019.0,Hong Kong,18
+2019.0,Iceland,1
+2019.0,India,243
+2019.0,Indonesia,18
+2019.0,Iran,1
+2019.0,Ireland,3
+2019.0,Israel,6
+2019.0,Italy,14
+2019.0,Japan,69
+2019.0,Lebanon,5
+2019.0,Malaysia,8
+2019.0,Mauritius,1
+2019.0,Mexico,31
+2019.0,Netherlands,6
+2019.0,New Zealand,3
+2019.0,Nigeria,31
+2019.0,Norway,2
+2019.0,Pakistan,7
+2019.0,Paraguay,1
+2019.0,Peru,1
+2019.0,Philippines,41
+2019.0,Poland,11
+2019.0,Romania,5
+2019.0,Russia,2
+2019.0,Singapore,3
+2019.0,South Africa,5
+2019.0,South Korea,62
+2019.0,Spain,53
+2019.0,Sweden,4
+2019.0,Switzerland,2
+2019.0,Taiwan,23
+2019.0,Thailand,16
+2019.0,Turkey,22
+2019.0,United Arab Emirates,4
+2019.0,United Kingdom,165
+2019.0,United States,1139
+2019.0,Uruguay,1
+2019.0,Vietnam,1
+2020.0, Australia,2
+2020.0, Canada,10
+2020.0, East Germany,1
+2020.0, France,7
+2020.0, Germany,11
+2020.0, Hong Kong,1
+2020.0, India,2
+2020.0, Italy,3
+2020.0, Japan,4
+2020.0, Malaysia,1
+2020.0, Mexico,2
+2020.0, Singapore,1
+2020.0, South Korea,2
+2020.0, Spain,1
+2020.0, Taiwan,1
+2020.0, United Kingdom,12
+2020.0, United States,15
+2020.0, West Germany,1
+2020.0,Australia,1
+2020.0,Austria,1
+2020.0,Belgium,1
+2020.0,Brazil,1
+2020.0,Canada,4
+2020.0,China,1
+2020.0,France,1
+2020.0,Germany,3
+2020.0,India,7
+2020.0,Indonesia,2
+2020.0,Japan,5
+2020.0,Mexico,3
+2020.0,Netherlands,1
+2020.0,New Zealand,2
+2020.0,Poland,1
+2020.0,Russia,1
+2020.0,South Africa,1
+2020.0,South Korea,2
+2020.0,Spain,2
+2020.0,United Kingdom,14
+2020.0,United States,130
