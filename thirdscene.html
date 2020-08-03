@@ -4,7 +4,7 @@
 <head>
 <meta charset="utf-8">
 <title>Multi Line Chart</title>
-<script type="text/javascript" src="https://d3js.org/d3.v5.min.js"></script>
+<script type="text/javascript" src="https://d3js.org/d3.v4.js"></script>
 <style>
     /* AXES */
     /* ticks */
@@ -51,10 +51,111 @@
 }</style>
 </head>
 <body>
- <p style="text-align: center;"><span style="text-decoration: underline; color: red; font-size: 30px;"><strong>Netflix Content Analysis</strong></span></p>
+ <p style="text-align: center;"><span style="text-decoration: underline; color: red; font-size: 30px;"><strong>Netflix Content Growth Analysis</strong></span></p>
     
 <h3 style="text-align: left;">About Netflix</h3>
-<p>Netflix has been leading the way for digital content since 1997 Netflix is the world's leading streaming entertainment service with 193 million paid memberships in over 190 countries enjoying TV series, documentaries and feature films across a wide variety of genres and languages. Members can watch as much as they want, anytime, anywhere, on any internet-connected screen. Members can play, pause and resume watching, all without commercials or commitments.</p>
-<div><h3 style="text-align: center; color: #ff0505f5;">Netflix Content Growth Over The Year </h3></div>
-<div id="container" class="svg-container"></div>
-<div id="container2" class="svg-container"></div>
+<p>This chart shows content growth over the years for different country.In 2010 	Netflix starts expanding its streaming service to the international market, starting with Canada.In 2011 Netflix launches streaming service in Brazil,Argentina, Uruguay, Paraguay,Chile, Bolivia,Andean region, including Peru, Ecuador,Mexico, Central America,  the Caribbean.Netflix starts its expansion in Europe, launching in the United Kingdom and Ireland by 2012. Netflix started expanding in Asia by 2015.
+</p>
+<p>information Source https://en.wikipedia.org/wiki/Timeline_of_Netflix</p>
+<div><h3 style="text-align: center; color: #ff0505f5;">Netflix Content Growth Over The Year for different country</h3></div>
+<select id="selectButton"></select>
+
+<div id="nextpage" style="text-align: right;">
+    <a href="index.html">
+        <button> Introduction</button>
+    </a>
+    </div>
+    <div id="container" class="svg-container"></div>
+    <script>
+    //------------------------1. PREPARATION------------------------//
+//-----------------------------SVG------------------------------//
+var margin = {top: 10, right: 50, bottom: 100, left: 60};
+   // width = 460 - margin.left - margin.right,
+   // height = 400 - margin.top - margin.bottom;
+    var width=900;
+  var height=400;
+// we are appending SVG first
+
+var svg = d3.select("div#container").append("svg")
+      .attr("width", width + margin.left + margin.right)
+      .attr("height", height + margin.top + margin.bottom)
+      .append("g")
+      .attr("transform",
+            "translate(" + margin.left + "," + margin.top + ")");
+
+
+//Read the data
+d3.csv("https://raw.githubusercontent.com/nivedita001/CS498-DataViz/master/Netflix_countbyyearcountry.csv", function(data) {
+
+// List of groups (here I have one group per column)
+var allGroup = d3.map(data, function(d){return(d.country)}).keys()
+console.log(allGroup)
+// add the options to the button
+d3.select("#selectButton")
+  .selectAll('myOptions')
+     .data(allGroup)
+  .enter()
+    .append('option')
+  .text(function (d) { return d; }) // text showed in the menu
+  .attr("value", function (d) { return d; }) // corresponding value returned by the button
+
+
+
+// Add X axis --> it is a date format
+var x = d3.scaleLinear()
+  .domain(d3.extent(data, function(d) { return d.year_added; }))
+  .range([ 0, width ]);
+svg.append("g")
+  .attr("transform", "translate(0," + height + ")")
+  .call(d3.axisBottom(x));
+
+// Add Y axis
+var y = d3.scaleLinear()
+  .domain([0, d3.max(data, function(d) { return +d.total_count; })])
+  .range([ height, 0 ]);
+svg.append("g")
+  .call(d3.axisLeft(y));
+
+// Initialize line with first group of the list
+var line = svg
+  .append('g')
+  .append("path")
+    .datum(data.filter(function(d){return d.country==allGroup[0]}))
+    .attr("d", d3.line()
+      .x(function(d) { return x(d.year_added) })
+      .y(function(d) { return y(+d.total_count) })
+    )
+    .attr("stroke", "steelblue" )
+    .style("stroke-width", 4)
+    .style("fill", "none")
+
+// A function that update the chart
+function update(selectedGroup) {
+
+  // Create new data with the selection?
+  var dataFilter = data.filter(function(d){return d.country==selectedGroup})
+
+  // Give these new data to update line
+  line
+      .datum(dataFilter)
+      .transition()
+      .duration(1000)
+      .attr("d", d3.line()
+        .x(function(d) { return x(d.year_added) })
+        .y(function(d) { return y(+d.total_count) })
+      )
+      .attr("stroke", "steelblue")
+}
+
+// When the button is changed, run the updateChart function
+d3.select("#selectButton").on("change", function(d) {
+    // recover the option that has been chosen
+    var selectedOption = d3.select(this).property("value")
+    // run the updateChart function with this selected option
+    update(selectedOption)
+})
+
+})
+
+        </script>
+        </body>
